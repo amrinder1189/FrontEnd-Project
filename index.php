@@ -3,7 +3,7 @@ include('header1.php');
 
 ?>
 
-<!-- THE CROUSEL OR SLIDERS -->
+<!-- THE CROUSEL   OR SLIDERS -->
 
 
 
