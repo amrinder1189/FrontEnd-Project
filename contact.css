@@ -1,0 +1,118 @@
+.contact-one{
+    height: 70vh;
+    /* border: 1px solid red; */
+    /* position: absolute; */
+    /* top: 20%; */
+  
+    
+}
+
+.posss{
+    position: relative;
+    top: 40%;
+}
+
+.contact-help{
+    font-size: 40px;
+    /* top: 20%; */
+    /* position: relative; */
+    text-align: center;
+    color: hotpink;
+}
+
+.just-click{
+    text-align: center;
+    font-size: 30px;
+    color: hotpink;
+
+}
+
+.just-call{
+    text-align: center;
+    margin: 1% auto;
+}
+
+.birla-img-house{
+    height: 400px;
+    border-radius: 5%;
+}
+
+.address{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-birla{
+    flex: 1;
+    padding: 3rem;
+    border-radius: 20%;
+
+}
+
+.adress-birla{
+    flex: 1;
+}
+
+
+.ad {
+    /* font-size: xx-large; */
+    color: hotpink;
+    padding: 3rem;
+
+}
+
+.add{
+    color: hotpink;
+    font-size: large;
+}
+
+
+
+
+
+@media screen and (max-width:400px){
+
+.address{
+    margin: 0 0  3rem 0;
+}
+
+.just-call{
+    /* border: 1px solid red; */
+    font-weight: bold;
+}
+
+.contact-help{
+    font-size: large;
+}
+
+.just-click{
+    font-size: medium;
+}
+
+.birla-img-house{
+    height: 200px;
+    padding: .5rem;
+}
+
+.ad{
+    padding: 0;
+}
+
+.image-birla{
+    padding: 0;
+    /* overflow: ; */
+}
+
+
+
+
+
+
+
+
+
+
+
+}
