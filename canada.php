@@ -1,16 +1,11 @@
 <?php include('header.php') ?>
 
-
-
-
-
 <!-- stream_context_get_options -->
 
 <section class='box-h' style=' '>
 
 <section class='menu-box' style=''>
 <div class='menu-section'>
-
 
 <ul class="im">
 <li class="imi"><a href='canada.php'>Canada</a></li>
@@ -24,11 +19,9 @@
 </ul>
 
 
-
 </div>
 
 </section>
-
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
@@ -58,7 +51,6 @@
 <section class='menu-boxx' style=''>
 <div class='menu-sectionn'>
 
-
 <ul class="im">
 <li class="imii"><a href='canada.php'>Follow Us on Facebook</a></li>
 
@@ -70,8 +62,6 @@
 
 </ul>
 
-
-
 </div>
 
 </section>
@@ -80,17 +70,9 @@
 
 </section>
 
-
-
-
-
 <!-- flagg   ¿ -->
 
 <section class="hc">
-
-
-
-
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -142,13 +124,7 @@
   </div>
 </section>
 
-
-
-
-
-
 <!-- try  -->
-
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -202,38 +178,7 @@
   </div>
 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- try  -->
 
@@ -353,27 +298,9 @@
                 </div>
                 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer  -->
 
-
-
 <section class="eight-section">
-
 
 <div  class="footerimage jumbotron">
     <div class="f1 footer footerfont"><h1>Birla - G</h1></div>
@@ -387,9 +314,7 @@
         <li><i class="fas fa-phone-square-alt"></i> KB Tower, Plot No. F-465,Nr.Ajit News Paper, Phase 8B, SAS Nagar, Mohali</li>
       </ul>
     </div>
-  
-  
-  
+
   <div class="col-4 ">
   <ul class=""  style="list-style-type:none;">
   <a href='index.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> HOME</li></a><br>
