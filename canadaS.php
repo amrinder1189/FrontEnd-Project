@@ -24,66 +24,38 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-size:1.4rem;'>Australia Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
-      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>Australian Student Visa Australia WWICS Global Resettlement Solutions is a one-stop education center for students who wish to Australian student visa Australia. Our team of expert consultants provides students with services like visa processing, eligibility assessment and application processing – services that help them get through the entire Australian Student Visa process in a hassle-free way.</br></br>
-      Australia is a blend of contemporary cities, majestic landscapes and a well-acknowledged education system, Australia is among world’s leading countries to live and pursue tertiary studies in. With WWICS, you get years of diverse experience and know-how that ensure expedited processing of a Student Visa to Australia.<br>
-      <span style='color:black;font-weight:bolder;'>Australian Student Visa Requirements</span><br><br>
-      When applying for student visa, you will have to provide evidence of the following:-<br>
-      <ul style='list-style-type:circle'>
-      <li>Financial requirements – evidence of sufficient funds to cover tuition, travel and living expenses. If you have dependents (spouse and children) travelling with you, you will have to show an evidence of being able to cover living expenses for all.</li>
-      <li>English proficiency – It is mandatory for all students to prove their proficiency in English language via a good IELTS/TOEFL score</li>
-      <li>IELTS (Academic module): Overall score of 6.0 band  with no band less than 5.5 for Bachelor’s degree</li>
-      <li>IELTS (Academic module): Overall score of 6.5 band with no band less than 6.0 for Master’s degree, some universities except the profile with 5.5 band in any subtest with ELICOS.</li>
-      <li>Health requirements – Some students may have to undergo medical checkups to show they are in good health. If asked, you need to submit your test reports with a doctor’s prescription claiming your good health.</li>
-      <li>Character requirements – All students applying for the Student Visa to Australia are assessed against the character requirements which include a criminal record check and getting a police clearance, to make sure they do not have a substantial criminal record.</li>
-      </ul>
-      <br><br>
-      <span style='color:black;font-weight:bolder;'>Document Check List</span>
-      While applying for a Student Visa for study in Australia, make sure of having the following in your document file.<br>
-      <ul style='list-style-type:circle'>
-      <li>Visa application form</li>
-      <li>Visa application fees</li>
-      <li>Electronic Confirmation of Enrollment (once your consultant has applied to institutions)</li>
-      <li>IELTS result (average score 5.5 Bands)</li>
-      <li>Prior academic study documents</li>
-      <li>Any prior work experience</li>
-      <li>Statement of purpose</li>
-      <li>Evidence of financial ability</li>
-      </ul>
-      <br><br>
-      
-      <!-- Existing business and investor visa holders may be eligible to apply for one of the following visas:<br> -->
-      <span style='color:black;font-weight:bolder;'>Advantages of Study Visa</span>
-      <br><br>
-      There are a number of advantages of your Australian Student Visa.<br>\
-      <ul style='list-style-type:circle'>
-      <li>Study – But Ofcourse, it allows you to take up tertiary studies in the country and gain knowledge</li>
-      <li>Work – While pursuing education in the country, you can work for 40 hours per fortnight during regular semester classes and work full time during vacations.</li>
-      <li>Post Study Work – Australia allows students 31 years old and above to legally work and apply for permanent residency.</li>
-      <li>Visitor – While your study in Australia, your close family members as dependents can also stay with you.</li>
-      <li>Spouse can also accompany (spouse must be graduated)</li>
-      </ul><br><br>
+      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
+      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
 
-      <span style='color:black;font-weight:bolder;'>Rejection of Student Visa</span><br><br>
-      All students wanting to study in Australia have to undergo an assessment under Genuine Temporary Entrant to check whether the prospective students are genuinely coming for pursue education or using the visa for some other personal purpose. Here is a list of factors studied by the immigration officers of Australia before considering or rejecting the application:-<br><br>
-      <ul style='list-style-type:circle'>
-      <li>Previous study record and relevance of course applied</li>
-      <li>Previous immigration histor</li>
-      <li>Gap between previous studies and intended study</li>
-      <li>Reason behind choosing intended course, institutions and Australia for studies</li>
-      <li>Financial background</li>
-      <li>Economic, social and political background of native country</li>
-      </ul>
-    <br><br>
+Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
+There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
 
-    <span style='color:black;font-weight:bolder;'>If you are under 18, you must prove you have either:</span><br><br>
-    <ul style='list-style-type:circle'>
-    <li>Nominate a student guardian</li>
-    <li>Nominate a parent, legal custodian or relative over 21 years of age as your student guardian. This person must have a visa to stay in Australia for the duration of your student visa or until you turn 18.</li>
+
+      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
+    <ul style='color:black; list-style-type:circle;'>
+    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
+    <li>Personal Interview may be required</li>
+    <li>Nominal expenditure</li>
+    <li>Better Settlement Solutions</li>
+    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
+    <li>Part time work easily available</li>
+    <li>20 hours off-campus work is allowed to students.</li>
     </ul>
-              
+    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
+
+
+    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
+    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
+    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
+
+    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
+
+    
+    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
+
     </p>
     </div>
   </div>
@@ -100,7 +72,6 @@
 <li class='imii'><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBirla-g-studyvisa-100636402054550&#038;tabs=timeline&#038;width=300px&#038;height=300px&#038;small_header=false&#038;adapt_container_width=true&#038;hide_cover=false&#038;show_facepile=true&#038;appId" >
 </iframe></li>
 
-
 <li><iframe  src="https://www.youtube.com/embed/SUQmP3spU0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
 
 </ul>
@@ -115,7 +86,6 @@
 
 <!-- flagg   ¿ -->
 
-
 <!-- tehhorizontal class  -->
 
 <section class="hc">
@@ -125,11 +95,11 @@
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Higher Education Student Visa</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>Australia is a popular destination for a quality education. The country is accommodates highly regarded and internationally.</p>
+          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
           <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
             <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
@@ -138,20 +108,24 @@
           </a>
         </div>
       </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>School Student Visa</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Australia is a popular destination for education. The Australian school system comprises of private and public (government funded)..</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='us.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
-              <!-- <path d="M5 12h14"></path> -->
-              <!-- <path d="M12 5l7 7-7 7"></path> -->
-            <!-- </svg> -->
-          <!-- </a> -->
+          <p class="leading-relaxed" style='font-size:.8rem'>
+          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
         </div>
-      </div>
+      <!-- </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
+         
+        </div>
+      </div> --> 
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
@@ -172,6 +146,7 @@
 
 <!-- try  -->
 
+
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
@@ -180,18 +155,28 @@
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Vocational Training Student Visa</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Australia is a popular education destination. It is also known for its Vocational Education and Training (VET) system that, gives a boost to students’ confidence and career. </p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='skilled.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
-              <!-- <path d="M5 12h14"></path> -->
-              <!-- <path d="M12 5l7 7-7 7"></path> -->
-            <!-- </svg> -->
-          <!-- </a> -->
-        </div>
+          <p class="leading-relaxed" style='font-size:.8rem'>
+          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
       </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>
+          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
+      </div>
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
+        </div>
+      </div> -->
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
@@ -348,6 +333,7 @@
 
 <section class="eight-section">
 
+
 <div  class="footerimage jumbotron">
     <div class="f1 footer footerfont"><h1>Birla - G</h1></div>
   
@@ -360,6 +346,7 @@
         <li><i class="fas fa-phone-square-alt"></i> KB Tower, Plot No. F-465,Nr.Ajit News Paper, Phase 8B, SAS Nagar, Mohali</li>
       </ul>
     </div>
+  
   <div class="col-4 ">
   <ul class=""  style="list-style-type:none;">
   <a href='index.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> HOME</li></a><br>
@@ -367,7 +354,7 @@
     <a href='services.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> OUR SERVICES</li></a><br>
     <a href='contact.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> ABOUT US</li></a>
   </ul>
-  </div
+  </div>
   
   <div class="col-4 ">
     <ul  style="list-style-type:none;">
@@ -376,11 +363,11 @@
       <li><a href='https://www.facebook.com/officialbirlagvisa/'><img src="images/fbicon.png" class="lu" alt=""> Facebook</a></li><br>
       <li><a href='https://twitter.com/intent/tweet?url=http%3A%2F%2Fbirlagvisa.com%2F&text='><img src="images/twicon.png" class="lu" alt=""> Twiter</a></li>
     </ul>
-
+  
   </div>
   
   </div>
-    
+  
   </div>
   </section>
 

@@ -24,75 +24,31 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-size:1.4rem;'>Australia Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Business Visa for Canada</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
-      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>Australian Student Visa Australia WWICS Global Resettlement Solutions is a one-stop education center for students who wish to Australian student visa Australia. Our team of expert consultants provides students with services like visa processing, eligibility assessment and application processing – services that help them get through the entire Australian Student Visa process in a hassle-free way.</br></br>
-      Australia is a blend of contemporary cities, majestic landscapes and a well-acknowledged education system, Australia is among world’s leading countries to live and pursue tertiary studies in. With WWICS, you get years of diverse experience and know-how that ensure expedited processing of a Student Visa to Australia.<br>
-      <span style='color:black;font-weight:bolder;'>Australian Student Visa Requirements</span><br><br>
-      When applying for student visa, you will have to provide evidence of the following:-<br>
-      <ul style='list-style-type:circle'>
-      <li>Financial requirements – evidence of sufficient funds to cover tuition, travel and living expenses. If you have dependents (spouse and children) travelling with you, you will have to show an evidence of being able to cover living expenses for all.</li>
-      <li>English proficiency – It is mandatory for all students to prove their proficiency in English language via a good IELTS/TOEFL score</li>
-      <li>IELTS (Academic module): Overall score of 6.0 band  with no band less than 5.5 for Bachelor’s degree</li>
-      <li>IELTS (Academic module): Overall score of 6.5 band with no band less than 6.0 for Master’s degree, some universities except the profile with 5.5 band in any subtest with ELICOS.</li>
-      <li>Health requirements – Some students may have to undergo medical checkups to show they are in good health. If asked, you need to submit your test reports with a doctor’s prescription claiming your good health.</li>
-      <li>Character requirements – All students applying for the Student Visa to Australia are assessed against the character requirements which include a criminal record check and getting a police clearance, to make sure they do not have a substantial criminal record.</li>
-      </ul>
-      <br><br>
-      <span style='color:black;font-weight:bolder;'>Document Check List</span>
-      While applying for a Student Visa for study in Australia, make sure of having the following in your document file.<br>
-      <ul style='list-style-type:circle'>
-      <li>Visa application form</li>
-      <li>Visa application fees</li>
-      <li>Electronic Confirmation of Enrollment (once your consultant has applied to institutions)</li>
-      <li>IELTS result (average score 5.5 Bands)</li>
-      <li>Prior academic study documents</li>
-      <li>Any prior work experience</li>
-      <li>Statement of purpose</li>
-      <li>Evidence of financial ability</li>
-      </ul>
-      <br><br>
-      
-      <!-- Existing business and investor visa holders may be eligible to apply for one of the following visas:<br> -->
-      <span style='color:black;font-weight:bolder;'>Advantages of Study Visa</span>
-      <br><br>
-      There are a number of advantages of your Australian Student Visa.<br>\
-      <ul style='list-style-type:circle'>
-      <li>Study – But Ofcourse, it allows you to take up tertiary studies in the country and gain knowledge</li>
-      <li>Work – While pursuing education in the country, you can work for 40 hours per fortnight during regular semester classes and work full time during vacations.</li>
-      <li>Post Study Work – Australia allows students 31 years old and above to legally work and apply for permanent residency.</li>
-      <li>Visitor – While your study in Australia, your close family members as dependents can also stay with you.</li>
-      <li>Spouse can also accompany (spouse must be graduated)</li>
-      </ul><br><br>
+      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
+      Canada, an economically rich country, offers immense opportunities to business visitors. Thousands of businessmen undertake short-term visits to Canada in search of new and exciting business opportunities. Under the Business Visitor visa category, foreign nationals may visit Canada for short periods to partake in business dealings with Canadian companies. The eligible applicants are permitted to explore business opportunities, interact with Canadian business counterparts, and participate in trade conferences. However, this visa does not allow applicants to assume employment in Canada. Business Visitor visa is best suited for travelers intending to experience Canadian culture, tour sites, and enjoy leisure activities while exploring various business options.<br>
 
-      <span style='color:black;font-weight:bolder;'>Rejection of Student Visa</span><br><br>
-      All students wanting to study in Australia have to undergo an assessment under Genuine Temporary Entrant to check whether the prospective students are genuinely coming for pursue education or using the visa for some other personal purpose. Here is a list of factors studied by the immigration officers of Australia before considering or rejecting the application:-<br><br>
-      <ul style='list-style-type:circle'>
-      <li>Previous study record and relevance of course applied</li>
-      <li>Previous immigration histor</li>
-      <li>Gap between previous studies and intended study</li>
-      <li>Reason behind choosing intended course, institutions and Australia for studies</li>
-      <li>Financial background</li>
-      <li>Economic, social and political background of native country</li>
-      </ul>
-    <br><br>
+      <span style='color:black;font-weight:bolder;'>Business Visitor Visa Basic Requirements</span><br>
+      Barring the applicants from DCO (Designated Countries of Origin) and visa-exempt countries, visitors from most nations may obtain a visa under Business Visitor category. The list of DCO is reviewed from time-to-time. Visitors from Designated countries need to obtain TRV (Temporary Resident Visa).<br><br>
+      Applicants must possess a valid passport and ensure that they are criminally and medically permissible to enter Canada.<br>
+      Business Visitors must be able to provide documentation establish their intended business activities in Canada. It is essential that visitors applying under this category should have their centre of business and the source of income and profits amassed outside of Canada.<br>
 
-    <span style='color:black;font-weight:bolder;'>If you are under 18, you must prove you have either:</span><br><br>
-    <ul style='list-style-type:circle'>
-    <li>Nominate a student guardian</li>
-    <li>Nominate a parent, legal custodian or relative over 21 years of age as your student guardian. This person must have a visa to stay in Australia for the duration of your student visa or until you turn 18.</li>
-    </ul>
-              
+      <span style='color:black;font-weight:bolder;'>Business Visitor Visa Entitlements</span>
+      <br>
+      Applicants, once approved as Business Visitors, are allowed to travel across Canada. Visa holders under this category are entitled to visit family, friends, and experience Canada’s cultural & tourism attractions. They can participate in trade shows and conferences; they can use the opportunity to not only meet prospective clients and take orders, but also to search for more rewarding business prospects and explore schools and educational institutions to pursue further studies. Moreover, they can conduct meetings with prospective recruiters and employers, and thereby explore options for extending their stay in Canada.<br>
+
     </p>
     </div>
   </div>
-</section>
+</section
 
 <!-- try  -->
 
 <section class='menu-boxx' style=''>
 <div class='menu-sectionn'>
+
 
 <ul class="im">
 <li class="imii"><a href='canada.php'>Follow Us on Facebook</a></li>
@@ -125,11 +81,11 @@
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Higher Education Student Visa</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Federal Business Immigration Visa</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>Australia is a popular destination for a quality education. The country is accommodates highly regarded and internationally.</p>
+          <p class="leading-relaxed"  style='font-size:.8rem'>Self-employed persons must have the intention and ability to create their own employment and make a significant contribution to the cultural, artistic or athletic fields in Canada.</p>
           <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
             <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
@@ -138,20 +94,24 @@
           </a>
         </div>
       </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>School Student Visa</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canada Start- Up Visa Program</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Australia is a popular destination for education. The Australian school system comprises of private and public (government funded)..</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='us.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
-              <!-- <path d="M5 12h14"></path> -->
-              <!-- <path d="M12 5l7 7-7 7"></path> -->
-            <!-- </svg> -->
-          <!-- </a> -->
+          <p class="leading-relaxed" style='font-size:.8rem'>Launched in 2013, Canada’s Start-up Visa Program is designed for foreign entrepreneurs with the skills and potential to establish businesses in Canada by allowing them and their families to apply for Canadian permanent resident status. </p>
+         
         </div>
-      </div>
+      <!-- </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
+         
+        </div>
+      </div> --> 
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
@@ -180,18 +140,29 @@
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Vocational Training Student Visa</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Quebec Business Immigration Visa</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Australia is a popular education destination. It is also known for its Vocational Education and Training (VET) system that, gives a boost to students’ confidence and career. </p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='skilled.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
-              <!-- <path d="M5 12h14"></path> -->
-              <!-- <path d="M12 5l7 7-7 7"></path> -->
-            <!-- </svg> -->
-          <!-- </a> -->
+          <p class="leading-relaxed" style='font-size:.8rem'>To be selected in the Quebec Immigration Programs for Business, one must satisfy the prerequisites of one of the two Business Immigration programs established by the Quebec Government.</p>
         </div>
       </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Provincial Nominee Program</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>Now Open
+To help Alberta’s economy stand strong, the Government of Alberta has introduced the Alberta Immigrant Nominee Program (AINP) previously known as Alberta Provincial Nominee Program. Through this program, prospective immigrants with experience and skills are targeted by the province and are offered an Alberta Provincial Nomination Certification, which helps them speed up the overall immigration process and gain permanent residency in this province.</p>
+        </div>
+      </div>
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
+        </div>
+      </div> -->
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
@@ -360,6 +331,7 @@
         <li><i class="fas fa-phone-square-alt"></i> KB Tower, Plot No. F-465,Nr.Ajit News Paper, Phase 8B, SAS Nagar, Mohali</li>
       </ul>
     </div>
+
   <div class="col-4 ">
   <ul class=""  style="list-style-type:none;">
   <a href='index.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> HOME</li></a><br>
@@ -367,7 +339,7 @@
     <a href='services.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> OUR SERVICES</li></a><br>
     <a href='contact.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> ABOUT US</li></a>
   </ul>
-  </div
+  </div>
   
   <div class="col-4 ">
     <ul  style="list-style-type:none;">
@@ -376,11 +348,11 @@
       <li><a href='https://www.facebook.com/officialbirlagvisa/'><img src="images/fbicon.png" class="lu" alt=""> Facebook</a></li><br>
       <li><a href='https://twitter.com/intent/tweet?url=http%3A%2F%2Fbirlagvisa.com%2F&text='><img src="images/twicon.png" class="lu" alt=""> Twiter</a></li>
     </ul>
-
+  
   </div>
   
   </div>
-    
+  
   </div>
   </section>
 

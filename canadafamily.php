@@ -24,66 +24,32 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-size:1.4rem;'>Australia Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canada Family Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
-      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>Australian Student Visa Australia WWICS Global Resettlement Solutions is a one-stop education center for students who wish to Australian student visa Australia. Our team of expert consultants provides students with services like visa processing, eligibility assessment and application processing – services that help them get through the entire Australian Student Visa process in a hassle-free way.</br></br>
-      Australia is a blend of contemporary cities, majestic landscapes and a well-acknowledged education system, Australia is among world’s leading countries to live and pursue tertiary studies in. With WWICS, you get years of diverse experience and know-how that ensure expedited processing of a Student Visa to Australia.<br>
-      <span style='color:black;font-weight:bolder;'>Australian Student Visa Requirements</span><br><br>
-      When applying for student visa, you will have to provide evidence of the following:-<br>
-      <ul style='list-style-type:circle'>
-      <li>Financial requirements – evidence of sufficient funds to cover tuition, travel and living expenses. If you have dependents (spouse and children) travelling with you, you will have to show an evidence of being able to cover living expenses for all.</li>
-      <li>English proficiency – It is mandatory for all students to prove their proficiency in English language via a good IELTS/TOEFL score</li>
-      <li>IELTS (Academic module): Overall score of 6.0 band  with no band less than 5.5 for Bachelor’s degree</li>
-      <li>IELTS (Academic module): Overall score of 6.5 band with no band less than 6.0 for Master’s degree, some universities except the profile with 5.5 band in any subtest with ELICOS.</li>
-      <li>Health requirements – Some students may have to undergo medical checkups to show they are in good health. If asked, you need to submit your test reports with a doctor’s prescription claiming your good health.</li>
-      <li>Character requirements – All students applying for the Student Visa to Australia are assessed against the character requirements which include a criminal record check and getting a police clearance, to make sure they do not have a substantial criminal record.</li>
-      </ul>
-      <br><br>
-      <span style='color:black;font-weight:bolder;'>Document Check List</span>
-      While applying for a Student Visa for study in Australia, make sure of having the following in your document file.<br>
-      <ul style='list-style-type:circle'>
-      <li>Visa application form</li>
-      <li>Visa application fees</li>
-      <li>Electronic Confirmation of Enrollment (once your consultant has applied to institutions)</li>
-      <li>IELTS result (average score 5.5 Bands)</li>
-      <li>Prior academic study documents</li>
-      <li>Any prior work experience</li>
-      <li>Statement of purpose</li>
-      <li>Evidence of financial ability</li>
-      </ul>
-      <br><br>
-      
-      <!-- Existing business and investor visa holders may be eligible to apply for one of the following visas:<br> -->
-      <span style='color:black;font-weight:bolder;'>Advantages of Study Visa</span>
-      <br><br>
-      There are a number of advantages of your Australian Student Visa.<br>\
-      <ul style='list-style-type:circle'>
-      <li>Study – But Ofcourse, it allows you to take up tertiary studies in the country and gain knowledge</li>
-      <li>Work – While pursuing education in the country, you can work for 40 hours per fortnight during regular semester classes and work full time during vacations.</li>
-      <li>Post Study Work – Australia allows students 31 years old and above to legally work and apply for permanent residency.</li>
-      <li>Visitor – While your study in Australia, your close family members as dependents can also stay with you.</li>
-      <li>Spouse can also accompany (spouse must be graduated)</li>
-      </ul><br><br>
+      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
+      Canada encourages family reunification. The Family Visa programs that Canada offers range of programs and opportunities for Canadian citizens and permanent Canadian residents to sponsor family members to live in Canada.
+      <span style='color:black;font-weight:bolder;'>Spousal Visa</span><br>
+      A person who is a Permanent Resident of Canada can sponsor a person as his/ her spouse if that person is married to the Permanent Resident (and the marriage performed in a legal service). A marriage between two persons of the same sex will also be recognized for immigration purposes, if the marriage was legally performed in Canada, or was performed outside of Canada in a country where marriage between two persons of the same sex is legally recognized.<br><br>
+      <span style='color:black;font-weight:bolder;'>Dependent Child Visa</span><br>
+      Canada encourages familial ties. The Dependent Child visa is intended to reunite children with their
+      Canadian parents. This visa allows Canadian citizens and permanent Canadian residents to apply to sponsor their or their partner’s dependent or adopted children who are of 19 yrs of age or below. Once approved, dependent children can join their sponsoring parent(s) in Canada. Dependent children can enjoy permanent residence and can live, study and work in Canada.<br><br>
 
-      <span style='color:black;font-weight:bolder;'>Rejection of Student Visa</span><br><br>
-      All students wanting to study in Australia have to undergo an assessment under Genuine Temporary Entrant to check whether the prospective students are genuinely coming for pursue education or using the visa for some other personal purpose. Here is a list of factors studied by the immigration officers of Australia before considering or rejecting the application:-<br><br>
-      <ul style='list-style-type:circle'>
-      <li>Previous study record and relevance of course applied</li>
-      <li>Previous immigration histor</li>
-      <li>Gap between previous studies and intended study</li>
-      <li>Reason behind choosing intended course, institutions and Australia for studies</li>
-      <li>Financial background</li>
-      <li>Economic, social and political background of native country</li>
-      </ul>
-    <br><br>
+      <span style='color:black;font-weight:bolder;'>Common-Law Partner Visa</span><br>
+      By applying for the Common-Law Partner visa, eligible applicant can stay with his/her partner (same and opposite sex) in Canada. According to this program, Canadian citizens and permanent Canadian residents can sponsor their common-law partner and (eligible) dependent children. The sponsor should intend to live with applicant and support his/her financially. Once approved, the applicant can live, study and work in Canada for an indefinite period.<br><br>
 
-    <span style='color:black;font-weight:bolder;'>If you are under 18, you must prove you have either:</span><br><br>
-    <ul style='list-style-type:circle'>
-    <li>Nominate a student guardian</li>
-    <li>Nominate a parent, legal custodian or relative over 21 years of age as your student guardian. This person must have a visa to stay in Australia for the duration of your student visa or until you turn 18.</li>
-    </ul>
-              
+      <span style='color:black;font-weight:bolder;'>Conjugal Partner Visa</span><br>
+      Partners separated by war, discrimination or any other legal barriers can reunite via Conjugal partner Visa. This visa allows eligible (same and opposite-sex) partners to stay with his/her Canadian partner. As per this program, Canadian citizens or permanent Canadian residents can apply to sponsor their conjugal partners and dependent children. Upon approval, the applicant can enjoy permanent residence and is entitled to live, study and work in Canada.<br><br>
+
+      <span style='color:black;font-weight:bolder;'>Parental & Grandparental Visa</span><br>
+      A Parental and Grandparental visa program allows parents and grand-parents to be sponsored by their Canadian children and grandchildren to live in Canada. The sponsors should be Canadian citizens or permanent Canadian residents. CIC will open the registration under this program in starting of every year, but only those whose number is randomly selected can apply under the program. The Canadian sponsor should be prepared to live in Canada with the applicant and support them monetarily without having any access to public funds. On approval, the applicant will be permitted to live study and work in Canada, in addition to permanent residency.<br><br>
+
+      <span style='color:black;font-weight:bolder;'>Remaining Relative Visa</span><br>
+      Fostering the family reunification policy, Canada offers Remaining Relative visa to reunite families. Canadians who do not have any immediate family relatives in Canada or abroad, can sponsor an extended relative from abroad. Through this program, Canadian citizen and permanent Canadian resident is allowed to sponsor one relative regardless of age or relationship under the family category. Upon approval, the remaining relative will be entitled for permanent residency, work and study in Canada.<br><br>
+
+      <span style='color:black;font-weight:bolder;'>Family-Based Provincial Nominee Visa</span><br>
+      This Family-Based Provincial Nominee visa program allows permanent residents or Canadian citizens located in specified provinces to sponsor their eligible relatives for permanent residency in Canada.On approval, applicants are allowed to live, study and work in Canada.<br>
+
     </p>
     </div>
   </div>
@@ -99,7 +65,6 @@
 
 <li class='imii'><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBirla-g-studyvisa-100636402054550&#038;tabs=timeline&#038;width=300px&#038;height=300px&#038;small_header=false&#038;adapt_container_width=true&#038;hide_cover=false&#038;show_facepile=true&#038;appId" >
 </iframe></li>
-
 
 <li><iframe  src="https://www.youtube.com/embed/SUQmP3spU0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
 
@@ -125,11 +90,11 @@
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Higher Education Student Visa</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Common-Law Partner Visa</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>Australia is a popular destination for a quality education. The country is accommodates highly regarded and internationally.</p>
+          <p class="leading-relaxed"  style='font-size:.8rem'>As per the Common-Law Partner visa, Canadian citizens and permanent Canadian residents are entitled to sponsor their common-law partner and (eligible) dependent children. .</p>
           <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
             <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
@@ -140,16 +105,20 @@
       </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>School Student Visa</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Family-Based Provincial Nominee</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Australia is a popular destination for education. The Australian school system comprises of private and public (government funded)..</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='us.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
-              <!-- <path d="M5 12h14"></path> -->
-              <!-- <path d="M12 5l7 7-7 7"></path> -->
-            <!-- </svg> -->
-          <!-- </a> -->
+          <p class="leading-relaxed" style='font-size:.8rem'>Canada encourages familial ties, hence offers the Family-Based Provincial Nominee visa. As per the program, applicants should have sponsors who should be permanent residents or Canadian citizens located in specified provinces. </p>
+         
+        </div>
+      </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
+         
         </div>
       </div>
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
@@ -180,18 +149,28 @@
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Vocational Training Student Visa</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Dependent Child(ren) Visa</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Australia is a popular education destination. It is also known for its Vocational Education and Training (VET) system that, gives a boost to students’ confidence and career. </p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='skilled.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
-              <!-- <path d="M5 12h14"></path> -->
-              <!-- <path d="M12 5l7 7-7 7"></path> -->
-            <!-- </svg> -->
-          <!-- </a> -->
+          <p class="leading-relaxed" style='font-size:.8rem'>Individuals coming to Canada as permanent residents or temporary foreigner with work permit are allowed to bring their dependents, including all dependent children to Canada with them. However, there may be circumstances wherein the individuals are not able to bring them along at the time of immigration.</p>
         </div>
       </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Parental and Grandparental Visa</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>Get deep information about Parental Visa for Canada – Canada promotes the concept of uniting families. To establish the same, the Citizenship and Immigration Canada (CIC) allows Canadian citizens and permanent residents to bring their parents and grandparents to the maple leaf country through one of its two popular immigration programs – Family Class Parental and Grandparental Sponsorship program and Super Visa program..</p>
+        </div>
+      </div>
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
+        </div>
+      </div> -->
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
@@ -359,7 +338,8 @@
         <li><i class="fas fa-phone-square-alt"></i> +91 9041441465</li><br>
         <li><i class="fas fa-phone-square-alt"></i> KB Tower, Plot No. F-465,Nr.Ajit News Paper, Phase 8B, SAS Nagar, Mohali</li>
       </ul>
-    </div>
+    </div
+  
   <div class="col-4 ">
   <ul class=""  style="list-style-type:none;">
   <a href='index.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> HOME</li></a><br>
@@ -367,7 +347,7 @@
     <a href='services.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> OUR SERVICES</li></a><br>
     <a href='contact.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> ABOUT US</li></a>
   </ul>
-  </div
+  </div>
   
   <div class="col-4 ">
     <ul  style="list-style-type:none;">
@@ -375,12 +355,12 @@
       <li><img src="images/instaicon.jpg" class="lu" alt="">         Instagram</li><br>
       <li><a href='https://www.facebook.com/officialbirlagvisa/'><img src="images/fbicon.png" class="lu" alt=""> Facebook</a></li><br>
       <li><a href='https://twitter.com/intent/tweet?url=http%3A%2F%2Fbirlagvisa.com%2F&text='><img src="images/twicon.png" class="lu" alt=""> Twiter</a></li>
-    </ul>
-
+    </ul>  
+  
   </div>
   
   </div>
-    
+
   </div>
   </section>
 
