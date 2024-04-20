@@ -32,43 +32,66 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>New Zealand Visitor Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
       <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
-
-
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
+      To make an application for a Visitor’s Visa or Permit or a Limited Purpose Visa or Permit you will need to supply:<br>
+<br>
+<ul style='color:black; list-style-type:circle;'>
+<li>A completed, signed Application for Visiting New Zealand (NZIS 1017) formal a recent passport size photograph</li>
+<li>Evidence of your financial support while in New Zealand. This may be:</li>
+<li>NZ $1000 per each person for each month, or</li>
+<li>NZ $400 for each person for each month if your accommodation is already paid (you will need to show evidence, such as prepaid hotel vouchers) Evidence of funds can be in the form of traveler’s cheques, bank draft, letters of credit or a bank statement in your name. Cash or credit cards may be accepted as evidence of funds.</li>
+<li>If you do not have the required funds, you will nee If you do not have the required funds, you will need a guarantee of accommodation and maintenance from a New Zealand citizen/resident friend or relative who lives in New Zealand and is able to be your sponsor. Your sponsor should complete the Sponsorship Form for Visiting New Zealand (NZIS 1025).</li>
+</ul><br>
 
 
-
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
-
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
-
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
+<span style='color:black;font-weight:bolder;'>For a Visitor’s Visa or Limited Purpose Visa you may also be asked to supply:</span><br>
 
 
+<ul style='color:black; list-style-type:circle;'>
+        <li>Evidence of onward traveling
+</li>
+        <li>Guarantee of repatriation from a New Zealand citizen or resident friend or relative who lives in New Zealand and is able to be your sponsor. Your sponsor should complete the Sponsorship Form for Visiting New Zealand (NZIS 1025) or
+</li>
+        <li>Sufficient funds in New Zealand to purchase a ticket to a country to which you have the right of entry.
+</li>
+        <li>Any other documents or information requested by a Visa/Immigration officer.
+</li>
+        <!-- <li></li> -->
+       
+        
+     
+        </ul><br>
 
 
+      <span style='color:black;font-weight:bolder;'>For a Visitor’s Permit or Limited Purpose Permit you must also supply:
 
+</span><br>
+<ul style='color:black; list-style-type:circle;'>
+        <li>Evidence of onward travel
+</li>
+        <li>Valid ticket to a country to which you have right of entry, or
+</li>
+        <li>A guarantee of repatriation from a New Zealand citizen or resident friend or relative who lives in New Zealand and is able to be your sponsor. Your sponsor should complete the Sponsorship Form for Visiting New Zealand (NZIS 1025) or
+</li>
+        <li>Sufficient funds in New Zealand to purchase a ticket to a country to which you have the right of entry.
+</li>
+        <li>Any other documents or information requested by a Visa/Immigration Officer.
+</li>
+</ul></br>
+      <span style='color:black;font-weight:bolder;'>Special Provisions exist for:</span><br>
+
+      <ul style='color:black; list-style-type:circle;'>
+        <li>Dependent children travelling without parents or with one parent
+</li>
+<li>Spouses and de facto partners of New Zealand citizens and residents
+</li>
+<li>Visitors intending to marry New Zealand citizens or residents
+</li>
+     </ul><br>
     </p>
     </div>
   </div>
@@ -123,27 +146,29 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Visitors</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <p class="leading-relaxed"  style='font-size:.8rem'>
+          If you are not from a visa-waiver country, you will have to apply for a visitor visa before you come to New Zealand..                    </p>            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
               <path d="M12 5l7 7-7 7"></path>
             </svg> -->
           </a>
         </div>
       </div>
+      <!-- $  -->
        <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Forms </span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
-        </div>
+          Visitor Visa Application (INZ 1017) PDF, Visitor Visa Application for Auckland Region Applicants (INZ 1111), PDF..
+                    </p>
+         </div>
+        <!-- $  -->
       <!-- </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
@@ -179,29 +204,37 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 <!-- try  -->
 
+<!-- $  -->
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
       
-      <!-- s2  -->
+     
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Transit</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
-      </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+          While flying to any country if New Zealand happens to be your stop, you won’t need to have a visitor visa..
+                    </p>
+                </div>
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Forms</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
-      </div>
+          Financial Undertaking for a Student (INZ 1014), Sponsorship for Temporary Entry (INZ 1025)..
+          </p>     
+           </div> -->
+
+
+<!-- $  -->
+
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
@@ -238,6 +271,8 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
           </a>
         </div>
       </div> -->
+
+      <!-- $  -->
     </div>
   </div>
 </section>

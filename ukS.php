@@ -32,38 +32,53 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5"  style='color:#D92E7C; font-size:1.4rem;'>UK Student Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
       <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
+      The UK is a multicultural society that comprises of an amalgamation of people from diverse backgrounds. For students wishing to study in the country, there is a great scope of learning about new cultures and meeting people from all walks of life. Most UK universities and colleges have separate cells for international students, to help them adjust and share their grievances if any.<br>
+      UK is among the most sought-after destinations for higher studies, especially for Indian students because of a similarity in the education system. Having outstanding teaching facilities and faculty, UK educational institutes offer a state-of-the-art education system that is highly acceptable by the global economies.<br>
+      The recommended age for higher education in the UK is 18 years and above. Studying in the UK helps in learning and understanding the English language.<br>
+      <span style='color:black;font-weight:bolder';>UK Study Visa</span><br>
+      For studying in the UK, a student requires a study visa that has been duly approved by the immigration authorities.<br>
+      <span style='color:black;font-weight:bolder';>There are two types of visas that a student can apply:</span><br>
+      There is a Tier 4 (General) student visa and the Tier 4 (Child) student visa that can be acquired to study in tier 4 licensed sponsor institutes in the UK. For those wishing to study in the UK for a short period, there is a short-term study visa that one can apply for.
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
+The undergraduate and postgraduate courses in UK are usually of a lesser duration and this helps cut the tuition fees and living expenses. The full-time undergraduate courses are generally of three years, while the postgraduate courses are usually of one year or more duration.<br>
+
+    <span style='color:black;font-weight:bolder';>English Language Proficiency Requirement:</span><br>
+    <ul style='list-style-type:circle'>
+    <li>For Undergraduate, IELTS 6.0 band overall with each module 5.5 band.</li>
+    <li>For Bachelor’s & Master’s, IELTS 6.5 band overall with each module 5.5 band.</li>
+    <li>IELTS waiver: Minimum 10+2 passed in English medium with First Division + 65% above in English subject.
+</li>
+    </ul><br>
+
+    <span style='color:black;font-weight:bolder';>Studying Under Tier 4 of the Points-Based System.</span><br>
+    The most common visa for international students entering the UK is the Tier 4 Student Visa. This is a points-based system.
+
+As a Tier 4 (General) student, you must have 40 points to qualify.
+
+You can score:<br>
+<ul style='list-style-type:circle'>
+<li>30 points for having a valid confirmation of acceptance for studies, which you get for studying a course at an acceptable level with an approved education provider (also known as a ‘Tier 4 sponsor’), and for having acceptable English language skills; and
+</li>
+<li>10 points for having enough money (also known as maintenance or funds) to cover your course fees and living costs.
+</li>
+</ul><br>
+UKVI has confirmed these changes do not affect you if you are entering directly at degree level or higher at an institution in the UK listed as Tier 4 Sponsors (previously known as Highly Trusted Sponsors). UK universities currently choose their own method of testing students’ English language ability and this will not change.
+
+<br>
+All British universities and colleges accept IELTS results. This means that you do not need to take the IELTS test under UKVI specified condition, unless required by your institution.
+
+<br>
 
 
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
+<span style='color:black;font-weight:bolder';>Tuition Fees</span><br>
+The average tuition fees for studying in UK are £3,000 and £9,000 per year approximately for most institutes. Apart from this for students coming from another country, the fee is more as international costs are involved. The tuition fee varies for the course and institute that one wants to study at.<br>
+<span style='color:black;font-weight:bolder';>Jobs & Employment</span><br>
+International Business Management, Computer Information System, Finance & Accounts, Artificial Intelligence, Information Technology, MBA, Graphics Design, Website Designing, Computing, Networking Technology, Hardware Technology, Psychology, Physiotherapy, Human Resource Management are some of the most sought-after sectors for employment. The salaries are quite high and the future is bright for professionals who meet the requirements of the employers.<br>
 
-
-
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
-
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
-
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
 
 
 
@@ -117,57 +132,45 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 
 
+<!-- $  -->
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Tier 4 - Student (Adult) Visa</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg> -->
+          <p class="leading-relaxed"  style='font-size:.8rem'>
+          The student visa under this category is for students who intend to participate in a full time course at a UK institution of any post-16 education program..
+          
+          
+                                       </p>
           </a>
         </div>
       </div>
-       <div class="py-8 flex flex-wrap md:flex-nowrap">
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Universities</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
+          Middlesex University	The Burroughs, London
+2	Chester University	Parkgate Rd, Chester
+3	Bradfordshire University	Vicarage St, Luton
+4	London School of Business and Finance (LSBF)	London
+5	Birmingham City University	Birmingham
+6	Greenwich University	London
+7	De Montfort University	Gateway House, Leicester
+8	Oxford Brookes University	Oxford
+
+                    </p>
         </div>
-      <!-- </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
-         
-        </div>
-      </div> --> 
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>A unique and diverse country in every way – culture, population, climate, geography, and history, Australia has a culture that is as broad and varied..</p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='au.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
+      </div>
+
     </div>
   </div>
 </section>
@@ -179,65 +182,38 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 <!-- try  -->
 
+<!-- $  -->
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
-      
-      <!-- s2  -->
+    
+    
 
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Tier 4 - Student (Child) Visa</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
+          The Tier 4 – Student (Child) visa is applicable for students, between the ages of 4 and 17 years, intending to study at a UK educational institution..
+          
+                              </p>
+         
+        </div>
       </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Course</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
+          A UK undergraduate education gives you an amazing opportunity to immerse yourself in a subject that fascinates you..
+                                        </p>
+         
+        </div>
       </div>
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
-        </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The world is evolving into a revolutionizing village and the economies are enormously progressing with the growth in international trade. The global village is growing with strength and power and so are the investments in the capital flow moving upwards. Due to decentralization of trade between so many countries, potential business demand for persons was created worldwide. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='bsim.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='studentvisa.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>With worldwide integration, Education sector has always been the one domain which captured a big amount of population across the world. In today’s time studying abroad isn’t a new term. Educational excellence, high rate of employment and tremendous income potential with exquisite work environment attracts students all over the globe. But selecting and ensuring to follow the right career has become difficult in the changing times. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='studentvisa.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
+    
     </div>
   </div>
 </section>

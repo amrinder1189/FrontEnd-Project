@@ -1,11 +1,16 @@
 <?php include('header.php') ?>
 
+
+
+
+
 <!-- stream_context_get_options -->
 
 <section class='box-h' style=' '>
 
 <section class='menu-box' style=''>
 <div class='menu-section'>
+
 
 <ul class="im">
 <li class="imi"><a href='canada.php'>Canada</a></li>
@@ -18,9 +23,12 @@
 
 </ul>
 
+
+
 </div>
 
 </section>
+
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
@@ -39,10 +47,20 @@
       <br>
       Applicants, once approved as Business Visitors, are allowed to travel across Canada. Visa holders under this category are entitled to visit family, friends, and experience Canada’s cultural & tourism attractions. They can participate in trade shows and conferences; they can use the opportunity to not only meet prospective clients and take orders, but also to search for more rewarding business prospects and explore schools and educational institutions to pursue further studies. Moreover, they can conduct meetings with prospective recruiters and employers, and thereby explore options for extending their stay in Canada.<br>
 
+
+
+
+
+
+
+
+
     </p>
     </div>
   </div>
-</section
+</section>
+
+
 
 <!-- try  -->
 
@@ -61,6 +79,8 @@
 
 </ul>
 
+
+
 </div>
 
 </section>
@@ -69,12 +89,20 @@
 
 </section>
 
+
+
+
+
 <!-- flagg   ¿ -->
 
 
 <!-- tehhorizontal class  -->
 
 <section class="hc">
+
+
+
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -130,7 +158,13 @@
   </div>
 </section>
 
+
+
+
+
+
 <!-- try  -->
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -195,7 +229,38 @@ To help Alberta’s economy stand strong, the Government of Alberta has introduc
   </div>
 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- try  -->
 
@@ -315,9 +380,25 @@ To help Alberta’s economy stand strong, the Government of Alberta has introduc
                 </div>
                 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- footer  -->
 
+
+
 <section class="eight-section">
+
 
 <div  class="footerimage jumbotron">
     <div class="f1 footer footerfont"><h1>Birla - G</h1></div>
@@ -331,7 +412,9 @@ To help Alberta’s economy stand strong, the Government of Alberta has introduc
         <li><i class="fas fa-phone-square-alt"></i> KB Tower, Plot No. F-465,Nr.Ajit News Paper, Phase 8B, SAS Nagar, Mohali</li>
       </ul>
     </div>
-
+  
+  
+  
   <div class="col-4 ">
   <ul class=""  style="list-style-type:none;">
   <a href='index.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> HOME</li></a><br>
@@ -341,6 +424,9 @@ To help Alberta’s economy stand strong, the Government of Alberta has introduc
   </ul>
   </div>
   
+  
+  
+  
   <div class="col-4 ">
     <ul  style="list-style-type:none;">
       <li><h3 class='stay-conn'>STAY CONNECTED</h3></li><br>
@@ -349,9 +435,13 @@ To help Alberta’s economy stand strong, the Government of Alberta has introduc
       <li><a href='https://twitter.com/intent/tweet?url=http%3A%2F%2Fbirlagvisa.com%2F&text='><img src="images/twicon.png" class="lu" alt=""> Twiter</a></li>
     </ul>
   
+  
+  
   </div>
   
   </div>
+  
+  
   
   </div>
   </section>

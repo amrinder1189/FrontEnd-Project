@@ -1,11 +1,16 @@
 <?php include('header.php') ?>
 
+
+
+
+
 <!-- stream_context_get_options -->
 
 <section class='box-h' style=' '>
 
 <section class='menu-box' style=''>
 <div class='menu-section'>
+
 
 <ul class="im">
 <li class="imi"><a href='canada.php'>Canada</a></li>
@@ -18,9 +23,12 @@
 
 </ul>
 
+
+
 </div>
 
 </section>
+
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
@@ -50,15 +58,26 @@
       <span style='color:black;font-weight:bolder;'>Family-Based Provincial Nominee Visa</span><br>
       This Family-Based Provincial Nominee visa program allows permanent residents or Canadian citizens located in specified provinces to sponsor their eligible relatives for permanent residency in Canada.On approval, applicants are allowed to live, study and work in Canada.<br>
 
+
+
+
+
+
+
+
+
     </p>
     </div>
   </div>
 </section>
 
+
+
 <!-- try  -->
 
 <section class='menu-boxx' style=''>
 <div class='menu-sectionn'>
+
 
 <ul class="im">
 <li class="imii"><a href='canada.php'>Follow Us on Facebook</a></li>
@@ -66,9 +85,12 @@
 <li class='imii'><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBirla-g-studyvisa-100636402054550&#038;tabs=timeline&#038;width=300px&#038;height=300px&#038;small_header=false&#038;adapt_container_width=true&#038;hide_cover=false&#038;show_facepile=true&#038;appId" >
 </iframe></li>
 
+
 <li><iframe  src="https://www.youtube.com/embed/SUQmP3spU0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
 
 </ul>
+
+
 
 </div>
 
@@ -78,12 +100,20 @@
 
 </section>
 
+
+
+
+
 <!-- flagg   ¿ -->
 
 
 <!-- tehhorizontal class  -->
 
 <section class="hc">
+
+
+
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -139,7 +169,13 @@
   </div>
 </section>
 
+
+
+
+
+
 <!-- try  -->
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -203,7 +239,38 @@
   </div>
 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- try  -->
 
@@ -323,9 +390,25 @@
                 </div>
                 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- footer  -->
 
+
+
 <section class="eight-section">
+
 
 <div  class="footerimage jumbotron">
     <div class="f1 footer footerfont"><h1>Birla - G</h1></div>
@@ -338,7 +421,9 @@
         <li><i class="fas fa-phone-square-alt"></i> +91 9041441465</li><br>
         <li><i class="fas fa-phone-square-alt"></i> KB Tower, Plot No. F-465,Nr.Ajit News Paper, Phase 8B, SAS Nagar, Mohali</li>
       </ul>
-    </div
+    </div>
+  
+  
   
   <div class="col-4 ">
   <ul class=""  style="list-style-type:none;">
@@ -349,18 +434,25 @@
   </ul>
   </div>
   
+  
+  
+  
   <div class="col-4 ">
     <ul  style="list-style-type:none;">
       <li><h3 class='stay-conn'>STAY CONNECTED</h3></li><br>
       <li><img src="images/instaicon.jpg" class="lu" alt="">         Instagram</li><br>
       <li><a href='https://www.facebook.com/officialbirlagvisa/'><img src="images/fbicon.png" class="lu" alt=""> Facebook</a></li><br>
       <li><a href='https://twitter.com/intent/tweet?url=http%3A%2F%2Fbirlagvisa.com%2F&text='><img src="images/twicon.png" class="lu" alt=""> Twiter</a></li>
-    </ul>  
+    </ul>
+  
+  
   
   </div>
   
   </div>
-
+  
+  
+  
   </div>
   </section>
 

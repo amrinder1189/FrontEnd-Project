@@ -32,43 +32,26 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5"  style='color:#D92E7C; font-size:1.4rem;'>UK Skilled Worker Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
       <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
+      With effect from April 2011, the new UK ‘Highly Skilled’ Tier would be introduced. This new type of visa has replaced the Tier 1 General Visa, which was known as the Highly Skilled Migrant Program (HSMP). The UK Border Agency has stopped accepting Tier 1 (General) applications made from overseas since 23 December 2010.
+        <br><br>
+        Under the new Highly Skilled Tier Visa, entry in the UK would be open for entrepreneurs, investors and limited people under exceptional talent category. The new Tier 1 immigration system will concentrate on businessmen and people such as top scientists, artists and sports persons<br><br>
+        Thus, from April 2011, only the limited few Entrepreneurs and Investors and people with Skilled Talents would only qualify under the new Highly Skilled Tier Visa and would make it to the UK<br><br>
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
+        <span style='color:black;font-weight:bolder;'>New Proposed Immigration Changes announced by the UK Government</span>
+        The much awaited and anticipated changes in the UK immigration system have been clarified by the UK Government. As per The UK Border Agency (UKBA), changes that took place in April 2011 include a permanent immigration cap on skilled immigration, a new exceptional talent visa and new criteria for skilled workers with a job offer and intra-company transfers. Furthermore, significant changes in the rules for sponsoring non-EU workers would also come in effect.<br>
+        It was brought forth that the Tier 1 General skilled immigration visa would end with effect from April 6’ 2011 and a new ‘Exceptional Talent’ visa would be introduced in its place. The UKBA confirmed that with effect from April’6’ 2011, an annual limit of 1,000 visa would be in place for the ‘exceptional talent’ visa category and for Tier 2 visa the annual limit is decided at 20,700.<br>
+        Clarifying further, the UKBA announced that the total of Tier 2 visa would be divided into 12 monthly quotas of 1,500 places. Also, after the certificate of sponsorship has been granted to the employer, the same is to be assigned to the prospective employer within a span of 3 months. The new laid rules also put forth that the employers would be required to apply for the certificate of sponsorship from the UKBA for a specific post. Currently, an annual allocation of certificates of sponsorship is practiced.
 
+Under the Tier 2 visa, all the Non- EU workers would be eligible if they are working in a graduate level job in the UK, speak at intermediate level English and meet certain salary and employment requirements.<br>
+Some changes in the Tier 2 visa intra-company transfer route are also on the cards like the applicants applying under this visa type must be in an occupation on the graduate occupation list. Also, the worker must be in an occupation that pays more than £40,000 per year, in case he intends to stay in the UK for more than one year. A three-year visa with a possibility of extending the visa for another two years is applicable for the workers who earn more than £40,000 a year.<br>
+However, no cap has been placed on the number of workers that can enter the UK though Tier 2 visa intra-company transfer route.
 
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
-
-
-
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
-
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
-
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
-
-
-
-
-
+     
+   
     </p>
     </div>
   </div>
@@ -117,61 +100,37 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 
 
+<!-- $  -->
 
-<section class="text-gray-600 body-font overflow-hidden">
+
+<!-- <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled Independent Visa (Subclass 189)</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg> -->
+          <p class="leading-relaxed"  style='font-size:.8rem'>Australian Skilled Independent Visa (Subclass 189) was brought into being to cater to the skill shortages of Australia..</p>
           </a>
         </div>
       </div>
-       <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
-        </div>
-      <!-- </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled work regional (provisional) subclass 491 visa</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
-         
-        </div>
-      </div> --> 
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>A unique and diverse country in every way – culture, population, climate, geography, and history, Australia has a culture that is as broad and varied..</p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='au.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
+          <p class="leading-relaxed" style='font-size:.8rem'>The Skilled Work Regional (Provisional) Subclass 491 is a new points-tested visa to assist regional Australia that enables eligible skilled workers and their families to live…</p>
         </div>
       </div> -->
-    </div>
+
+      <!-- $  -->
+   
+    <!-- </div>
   </div>
 </section>
-
+ -->
 
 
 
@@ -179,68 +138,27 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 <!-- try  -->
 
+<!-- $  -->
 
-<section class="text-gray-600 body-font overflow-hidden">
+<!-- <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
-      
+       -->
       <!-- s2  -->
 
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled Nominated Visa (Subclass 190)</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
+          <p class="leading-relaxed" style='font-size:.8rem'>This is a Permanent Resident Visa which is an option to the individuals who cannot meet the Skilled Independent Visa..</p>
+         
+        </div>
       </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
-      </div>
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
-        </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The world is evolving into a revolutionizing village and the economies are enormously progressing with the growth in international trade. The global village is growing with strength and power and so are the investments in the capital flow moving upwards. Due to decentralization of trade between so many countries, potential business demand for persons was created worldwide. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='bsim.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='studentvisa.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>With worldwide integration, Education sector has always been the one domain which captured a big amount of population across the world. In today’s time studying abroad isn’t a new term. Educational excellence, high rate of employment and tremendous income potential with exquisite work environment attracts students all over the globe. But selecting and ensuring to follow the right career has become difficult in the changing times. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='studentvisa.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
+    
     </div>
   </div>
-</section>
+</section> -->
 
 
 

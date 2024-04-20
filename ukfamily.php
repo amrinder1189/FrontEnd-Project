@@ -32,43 +32,29 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5"  style='color:#D92E7C; font-size:1.4rem;'>UK Family Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
       <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
+      Being a part of the European Economic Area (EEA) the United Kingdom permits free passage to the EEA nationals between Member States. An economically functioning EEA national who resides in the UK, or who intends to reside in the UK, may sponsor a dependent Child, Fiancé (e), Grandchild, Great Grandchild, Grandparent, Great Grandparent, Parent or Unmarried partner.        <br><br>
+      Dependents of Non-EEA nationals exercising their Treaty Rights in the UK may be eligible for a maximum period of five (5) year residence family permit. The EEA Family Visa allows the visa holder to live, work and study liberally in the UK.
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
+      On fulfillment of additional criteria, the applicant may eventually be eligible to apply for an Indefinite Leave to Remain (ILR) and British Nationality.<br>
 
+      <span style='color:black;font-weight:bolder;'>EEA Family Visa Basic Requirements</span><br><br>
+      To qualify for an EEA Citizen Family visa there are certain prerequisites set by the UK Immigration Authorities that must be met.
 
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
+In the case of spouses/partners, the sponsor and the dependent must be at least 18 years and in a genuine relationship.
 
+In the case of other family members the applicants must demonstrate that they are dependent on their EEA relative.<br>
+<span style='color:black;font-weight:bolder;'>EEA Family Visa Entitlements</span><br><br>
+Validity period of the EEA Family visa varies consequently to the information submitted to show how long the EEA family member will practise their Treaty Rights in the UK. The maximum duration of validity is five (5) years.<br>
+On completion of five (5) years in the UK and satisfying the requirements, the EEA Family visa holder becomes eligible to apply for Indefinite Leave to Remain (ILR). ILR entitles individuals to permanent residency in as well as visa-free travel to and from the UK. ILR holders may be eligible to apply for British citizenship and also be able to sponsor their non-British relatives into the UK.
 
+Visa holders under this category are permitted to work and study in the UK without any restriction.<br>
 
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
-
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
-
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
-
-
-
-
-
+      
+   
     </p>
     </div>
   </div>
@@ -117,57 +103,33 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 
 
+<!-- $  -->
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>B1 (Business Visitors) Visa</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg> -->
+          <p class="leading-relaxed"  style='font-size:.8rem'>
+          The government of Canada opened doors for immigrants when it introduced the Express Entry..
+                    </p>
           </a>
         </div>
       </div>
-       <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
-        </div>
-      <!-- </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
-         
-        </div>
-      </div> --> 
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled work regional (provisional) subclass 491 visa</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>A unique and diverse country in every way – culture, population, climate, geography, and history, Australia has a culture that is as broad and varied..</p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='au.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
+          <p class="leading-relaxed" style='font-size:.8rem'>The Skilled Work Regional (Provisional) Subclass 491 is a new points-tested visa to assist regional Australia that enables eligible skilled workers and their families to live…</p>
         </div>
       </div> -->
+
     </div>
   </div>
 </section>
@@ -179,68 +141,27 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 <!-- try  -->
 
+<!-- $  -->
 
-<section class="text-gray-600 body-font overflow-hidden">
+<!-- <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
-      
+       -->
       <!-- s2  -->
 
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled Nominated Visa (Subclass 190)</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
+          <p class="leading-relaxed" style='font-size:.8rem'>This is a Permanent Resident Visa which is an option to the individuals who cannot meet the Skilled Independent Visa..</p>
+         
+        </div>
       </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
-      </div>
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
-        </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The world is evolving into a revolutionizing village and the economies are enormously progressing with the growth in international trade. The global village is growing with strength and power and so are the investments in the capital flow moving upwards. Due to decentralization of trade between so many countries, potential business demand for persons was created worldwide. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='bsim.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='studentvisa.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>With worldwide integration, Education sector has always been the one domain which captured a big amount of population across the world. In today’s time studying abroad isn’t a new term. Educational excellence, high rate of employment and tremendous income potential with exquisite work environment attracts students all over the globe. But selecting and ensuring to follow the right career has become difficult in the changing times. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='studentvisa.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
+    
     </div>
   </div>
-</section>
+</section> -->
 
 
 

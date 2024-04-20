@@ -32,43 +32,50 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
-    <div class="md:w-4/5 md:pl-6">
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Australia Skilled Worker Visa</h2>
+    <div class="md:w-3/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
-      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
+      <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>Effective July 1, 2018, new points system has been rolled out the below mentioned Skilled Migration Visas. The Qualifying Score is now 65 points for Skilled Subclasses:</br></br>
+      <ul style='list-style-type:circle'>
+      <li>Skilled Independent Visa (Subclass 189)</li>
+      <li>Skilled Nominated Visa (Subclass 190)</li>
+      <li>Skilled Regional Sponsored Visa (Subclass 489)</li>
+      </ul>
+      <br><br>
+      <span style='color:black;font-weight:bolder;'>Occupation Lists:</span><br><br>
+      <span style='color:black;font-weight:bolder;'>The Skilled Occupation List (SOL) is being replaced by the Medium and Long term Strategic Skills List (MLTSSL).</span><br><br>
+      The current Medium and Long term Strategic Skills List (MLTSSL) is relevant for applicants for:<br><br>
+      <ul style='list-style-type:circle'>
+      <li>MLTSSL is for 189, 489 Family Sponsored and State Sponsored Visas 190 and 489 State Sponsored.</li>
+      <li>4 years is the maximum visa period grant under Subclass 489.</li>
+      <li>5 years is the maximum visa period grant under Subclass 190 & 189.</li>
+      </ul><br><br>
+      <span style='color:black;font-weight:bolder;'>Consolidated Sponsored Occupation List (CSOL) has been replaced by the Short term Skilled Occupation List (STSOL).</span>
+    <br><br>
+    The current Short term Skilled Occupation List (STSOL) is relevant for applicants for:<br><br>
+    <ul style='list-style-type:circle'>
+      <li>Points-based skilled migration who are nominated by a state or territory government agency under a State Migration Plan.</li>
+      <li>STSOL is for Only State Sponsored Visas 190 and 489 (State Sponsored only).</li>
+      <!-- <li>Skilled Regional Sponsored Visa (Subclass 489)</li> -->
+      </ul>
+      <br><br>
+      Regional Occupation List (ROL) has been introduced for State Sponsored Visas under Subclass 489.<br>
+      <span style='color:black;font-weight:bolder;'>The current Regional List (ROL) is relevant for applicants for:</span><br>
+      <ul style='list-style-type:circle'>
+      <li>Points-based skilled migration who are nominated by a state or territory government agency under a State Migration Plan.</li>
+      <li>ROL is only for State Sponsored Visas available under Subclass 489 (State Sponsored only).</li>
+      <li>4 years is the maximum visa period grant under Subclass 489.</li>
+      </ul><br>
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
+      Department of Home Affairs introduced ANZSCO w.e.f 1 July 2010. Australian and New Zealand Standard Classification of Occupations (ANZSCO) is a system developed to collect, publish and analyze occupation statistics across government agencies and is being introduced by the department as the new standard to capture occupation information in all visa, settlement and citizenship programs.
 
+     <br></br>
 
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
+     <span style='color:black;font-weight:bolder;'>General Skilled Migrant Program</span>
+     Australia’s economy remains one of the strongest in the world, offering millions of jobs every week, making it an extremely preferred destination for highly skilled young people. It also exhibits that Australian employers require skilled workforce for achieving their organizational goals.<br>
 
-
-
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
-
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
-
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
-
-
-
-
-
+The eligibility of skilled migrants, who desire to immigrate to Australia, is assessed on a point-based system. In this system, points are awarded after considering the age, work experience, qualifications and language proficiency of the aspirant.
+                   
     </p>
     </div>
   </div>
@@ -123,11 +130,11 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled Independent Visa (Subclass 189)</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
+          <p class="leading-relaxed"  style='font-size:.8rem'>Australian Skilled Independent Visa (Subclass 189) was brought into being to cater to the skill shortages of Australia..</p>
           <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
             <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
@@ -136,24 +143,20 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
           </a>
         </div>
       </div>
-       <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
-        </div>
-      <!-- </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled work regional (provisional) subclass 491 visa</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
-         
+          <p class="leading-relaxed" style='font-size:.8rem'>The Skilled Work Regional (Provisional) Subclass 491 is a new points-tested visa to assist regional Australia that enables eligible skilled workers and their families to live…</p>
+          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='us.php'>Learn More -->
+            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
+              <!-- <path d="M5 12h14"></path> -->
+              <!-- <path d="M12 5l7 7-7 7"></path> -->
+            <!-- </svg> -->
+          <!-- </a> -->
         </div>
-      </div> --> 
+      </div>
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
@@ -188,28 +191,18 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Skilled Nominated Visa (Subclass 190)</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
+          <p class="leading-relaxed" style='font-size:.8rem'>This is a Permanent Resident Visa which is an option to the individuals who cannot meet the Skilled Independent Visa..</p>
+          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='skilled.php'>Learn More -->
+            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"> -->
+              <!-- <path d="M5 12h14"></path> -->
+              <!-- <path d="M12 5l7 7-7 7"></path> -->
+            <!-- </svg> -->
+          <!-- </a> -->
+        </div>
       </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
-      </div>
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
-        </div>
-      </div> -->
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>

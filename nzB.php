@@ -32,42 +32,64 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>New Zealand Business Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
       <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
+      An amalgamation of excellent working environment, comprehensive policy framework, high growth opportunities and diversified market place, New Zealand is among the most lucrative destinations for establishing a business or investing in an existing one. The Government of New Zealand has designed special business immigration visa categories that allow foreign entrepreneurs and investors to come to the nation and contribute significantly to the country’s economy.<br>
+      There are mainly three types of visas that are offered by Immigration New Zealand under the business visa category. These are:-
+
+<br>
+<ul style='color:black; list-style-type:circle;'>
+<li>Investor Visa</li>
+<li>Entrepreneur Work Visa.</li>
+<li>Employees of Relocating Businesses</li>
+</ul><br>
 
 
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
+<span style='color:black;font-weight:bolder;'>Entrepreneur Work Visa</span><br>
 
 
 
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
+Entrepreneur Work Visa is meant for those who wish to run their own business in New Zealand. Applicants of this category can also apply for an Entrepreneur Residence Visa once they have successfully run their businesses for a minimum of two years (or 6 months in case they meet the extra conditions).
+On the other hand, individuals already on a Long Term Business Visa (LTBV) can apply for permanent residency in New Zealand under the Entrepreneur Residence Category.<br>
 
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
+<span style='color:black;font-weight:bolder;'>The basic requirements under this category are as follows:-</span><br>
 
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
+<ul style='color:black; list-style-type:circle;'>
+        <li>A minimum capital investment of 100000 NZD (apart from the working capital)</li>
+        <li>Score 120 points or more on the points scale, with points awarded for factors about the likely success of the venture and its contribution to the economy of New Zealand.</li>
+        <li>A clear business plan with satisfactory evidence demonstrating sure-shot success of the business venture in New Zealand</li>
+        <li>Clean recent history of bankruptcy, fraud and business failure</li>
+        <li>Character certificate and medical reports</li>
+        <li>A certificate (no more than two years old at the time of filing the application) from IELTS showcasing an overall band score of a minimum of 4 in the IELTS Academic and General Module, or furnish evidence of an English speaking background. However, IELTS is not compulsory.</li>
+        <li>Minimum 05 years as Senior Management experience or business owner from last 03 years.</li>
+        <!-- <li></li> -->
+        
+     
+        </ul><br>
 
 
+      <span style='color:black;font-weight:bolder;'>How the Entrepreneur Visa Works</span><br>
+      <!-- <span style='color:black;font-weight:bolder;'>Submit an Expression of Interest</span><br> -->
+
+      An Entrepreneur Work Visa is a three year work visa that includes two stages
+
+Start-up stage
+Balance stage</br>
+
+      <span style='color:black;font-weight:bolder;'>The start-up Stage:</span><br>
+      Under an Entrepreneur Work Visa, you will be given a 12 month work visa initially. This would enable you to buy and/ or establish your business in New Zealand. Work Visa can be extended upto 3 years by satisfying visa officer.<br>
+
+<br>
 
 
+      <span style='color:black;font-weight:bolder;'>The balance Stage:</span><br>
+
+      Once you show the business migration branch that you have taken the appropriate steps to establish a business in New Zealand, you will receive approval for the remaining 24 months of your Entrepreneur Work Visa.<br>
+
+      As mentioned, the eligibility for an Entrepreneur Work Visa to New Zealand, you have to score a minimum of 120 points. To get a basic idea of where you stand on the points scale.
 
     </p>
     </div>
@@ -123,27 +145,30 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Business Immigration Program</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <p class="leading-relaxed"  style='font-size:.8rem'>
+          New Zealand offers positive business climate with distinct and compelling advantages to those Global firms seeking the best locations to establish or expand their operation in New Zealand..
+                    </p>            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
               <path d="M12 5l7 7-7 7"></path>
             </svg> -->
           </a>
         </div>
       </div>
-       <div class="py-8 flex flex-wrap md:flex-nowrap">
+      <!-- $  -->
+       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Courses</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
-        </div>
+          Eligibility 10+2 for Under Graduate courses 10+2+3 for Post Graduate & Masters..
+          </p>
+         </div> -->
+        <!-- $  -->
       <!-- </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
@@ -179,29 +204,37 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 <!-- try  -->
 
+<!-- $  -->
 
-<section class="text-gray-600 body-font overflow-hidden">
+
+<!-- <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
     <div class="-my-8 divide-y-2 divide-gray-100">
       
-      <!-- s2  -->
+     
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Universities/Colleges</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
-      </div>
+          List of Universities and Colleges in New Zealand Names of Universities..
+          </p>
+                </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Forms</span>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
-      </div>
+          Financial Undertaking for a Student (INZ 1014), Sponsorship for Temporary Entry (INZ 1025)..
+          </p>     
+           </div> -->
+
+
+<!-- $  -->
+
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
@@ -238,9 +271,11 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
           </a>
         </div>
       </div> -->
-    </div>
+
+      <!-- $  -->
+    <!-- </div>
   </div>
-</section>
+</section> -->
 
 
 

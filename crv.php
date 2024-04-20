@@ -32,38 +32,64 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canada Temporary Resident Visa</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
       <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
+      Lively cities, welcoming environs and magnificent nature’s bounty, together make Canada one of the most preferred travel destinations of the world, and here at WWICS as well. The maple leaf nation is also known for its business friendly atmosphere and serves as a lucrative place for entrepreneurs and investors all over the globe. Travellerswho visitCanada to explore business opportunities or visit the nation as a tourist will need a valid entry pass such as travel visa or an Electronic Travel Authorization (eTA).<br>
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
+      <span style='color:black;font-weight:bolder;'>Basic Requirements:-</span><br>
+      In order to obtain a travel visa to Canada, individuals must meet some basic requirements. These include:-<br><br>
+      <ul style='list-style-type:circle'>
+      <li>having genuine travel documents, such as a passport.</li>
+      <li>must be medically fit</li>
+      <li>must not have any immigration or criminal related conviction</li>
+      <li>should be able to convince the immigration officials about their ties back home which shall persuade you to return to their native nation.</li>
+      <li>should be able to assure the immigration official that they shall leave the Canadian nation at the end of their visit, and</li>
+      <li>they have enough funds to support their stay in Canada and shall not seek any financial aid from the Canadian public funds.</li>
+      </ul>
+      
+      
+      
+      
+      
+      
+      <span style='color:black;font-weight:bolder;'>Electronic Travel Authorization (eTA)</span><br>
+      In effect from March 15, 2016, individuals with passports from eTA-required countries who come to the Canadian nation by air will need a valid eTA document.
+
+An eTA is an authorization which is electronically linked to a traveller’s passport and stands valid for a period of five years or until the passport expires, whichever happens first.<br><br>
+Applying for an eTA is simple and affordable online procedure wherein the applicants receive their authorization within few minutes after submitting their application online.
+
+Individual who need an eTA must obtain one at least 48 hours prior to their intended date of travel to Canada to avoid any complications. Also, individuals must travel with a valid passport used for obtaining an eTA.<br><br>
 
 
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
 
 
 
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
+      <span style='color:black;font-weight:bolder;'>Visitor visa</span><br>
+      Individuals belonging to the visa-required countries and territories must apply for a visitor visa (also known as a temporary resident visa) to travel to Canada. A visitor visa is an official document attached to a passport that allows individuals to travel to Canada.<br><br>
+      There are two kinds of Canadian visitor visas that can be availed by individuals to travel to Canada – single entry visa and multiple entry visa.<br>
+      A Canadian multiple entry visa allows visitors to come and leave Canada without having to re-apply. However, each entry must not exceed six months. On the other hand, a Canadian single entry visa, as the name says, is valid only for one visit to Canada. Once you leave the geographical boundaries of Canada, except if travelling to United States, Miquelon and St. Pierre, individuals will have to apply again to travel to Canada. Both travel visa types are valid for a fixed period of time and cannot be used after they have expired.<br>
 
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
+      <span style='color:black;font-weight:bolder;'>Travel documents</span><br>
+      When travelling to the Canadian nation, individuals must carry proper identification and travel documents as there may circumstances wherein they may be asked to furnish travel documents for verification by the Immigration officials at the Canadian airport.<br>
 
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
+      The following are considered non-reliable travel documents. Individuals are not allowed to enter Canada if they are carrying:-<br>
+      <ul style='list-style-type:circle'>
+      <li>a passport issued by Somalia,</li>
+      <li>a passport that cannot be read by verification machines, issued by the Czech Republic,</li>
+      <li>a temporary passport issued by the Republic of South Africa,</li>
+      <li>a provisional passport issued by the Venezuelan nation.</li>
+
+
+      <span style='color:black;font-weight:bolder;'>Getting a Head Start</span><br>
+      a leading immigration consultant firm, can help obtain a travel visa to Canada efficiently. Housing a team of qualified professionals with years of experience in immigration, visa and resettlement process, WWICS guides its clients through the entire visa process, keeps them updated about the processing times and even takes care of the legal formalities that follow for its clients. If you are planning to travel to Canada, get in touch with us and obtain a travel visa in the shortest possible time.<br>
+
+      
+
+
+
+
 
 
 
@@ -123,11 +149,11 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Tourist Visa</span>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
+          <p class="leading-relaxed"  style='font-size:.8rem'>Canada is a well known country for its beauty & diversity and is one of the most sought after destination for tourists worldwide. Stunning locales, vibrant cities, and a welcoming crowd will make your travel experience worthwhile in this country. If you are planning a visit to Canada anytime in near future then WWICS (a world leader in providing solutions for travelling and settlement across globe) can assist you in acquiring the Tourist Visa, which is mandatory for visiting Canada or any other international locations.</p>
           <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
             <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
@@ -136,15 +162,15 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
           </a>
         </div>
       </div>
-       <div class="py-8 flex flex-wrap md:flex-nowrap">
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
+        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Family-Based Provincial Nominee</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
+          <p class="leading-relaxed" style='font-size:.8rem'>Canada encourages familial ties, hence offers the Family-Based Provincial Nominee visa. As per the program, applicants should have sponsors who should be permanent residents or Canadian citizens located in specified provinces. </p>
+         
         </div>
-      <!-- </div>
+      </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
@@ -153,7 +179,7 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
           <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
          
         </div>
-      </div> --> 
+      </div> -->
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
         <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
@@ -188,20 +214,20 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Business Visitor Visa</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
+          <p class="leading-relaxed" style='font-size:.8rem'>An economically rich and growing economy, Canada presents a host of investment and business opportunities to entrepreneurs and investors all across the world. But, to explore investment options, merchandising opportunities, interact with Canadian business counterparts and participate in trade seminars, foreign nationals must obtain a Business Visitor Visa to Canada.</p>
+        </div>
       </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
+      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
+       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Parental and Grandparental Visa</span>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
-      </div>
+          <p class="leading-relaxed" style='font-size:.8rem'>Get deep information about Parental Visa for Canada – Canada promotes the concept of uniting families. To establish the same, the Citizenship and Immigration Canada (CIC) allows Canadian citizens and permanent residents to bring their parents and grandparents to the maple leaf country through one of its two popular immigration programs – Family Class Parental and Grandparental Sponsorship program and Super Visa program..</p>
+        </div>
+      </div> -->
       <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>

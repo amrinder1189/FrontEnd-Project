@@ -32,41 +32,18 @@
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
-    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C; font-weight:400;font-size:1.2rem'>Canadian Student Visa</h2>
+    <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/5" style='color:#D92E7C;font-size:1.4rem;'>Student Visa
+</h2>
     <div class="md:w-4/5 md:pl-6">
     <!-- <h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5" style='color:#D92E7C'>Skilled Workers Visa</h2> -->
       <p class="leading-relaxed text-base" style='color:black;opacity:1;font-weight:400;'>
-      <span style='color:black;font-weight:bolder;'>Universities & Colleges</span><br>
 
-Canada has evolved into a world class education destination for students aspiring for quality education in North America and it is not hard to see why. Canadian degrees/ diplomas are internationally renowned and is among one of the most sought-after in the world. Albeit all this, the tuition fees in Canadian College/University are among the lowest in the English speaking world.<br><br>
-There are many other advantages of studying in Canada. It is a multi-cultural country with people from across the world as its citizens. As a result, its citizens are more aware of other cultures and beliefs in the world. Being so close to the US geographically & culturally, Canada becomes a key player in the global arena.<br><br>
+      With worldwide integration, Education sector has always been the one domain which captured a big amount of population across the world. In today’s time studying abroad isn’t a new term. Educational excellence, high rate of employment and tremendous income potential with exquisite work environment attracts students all over the globe. But selecting and ensuring to follow the right career has become difficult in the changing times.<br><br>
+      Career planning unquestionably requires an expert’s guidance in terms of gaining insight to the educational opportunities that are available worldwide. The students looking forward to start their educational tour overseas and planning to put their careers on a fast track; BirlaG is of the leading global resettlement solution provider that helps you in hassle-free student visa services.<br><br>
+      At BirlaG, we provide you with an immense range of special, high quality of educational universities/colleges all over the globe and great opportunities of professional career.<br><br>
+      The multifarious career opportunities offered by various countries, attract students from different countries of the world to study and settle there.
 
-
-      <span style='color:black;font-weight:bolder;'>Fast Facts – Canada</span><br>
-    <ul style='color:black; list-style-type:circle;'>
-    <li>IELTS mandatory (6.0 or 6.5 bands)</li>
-    <li>Personal Interview may be required</li>
-    <li>Nominal expenditure</li>
-    <li>Better Settlement Solutions</li>
-    <li>Job Availability (20 hours for part time work, salary per hour 12-14 CAD$)</li>
-    <li>Part time work easily available</li>
-    <li>20 hours off-campus work is allowed to students.</li>
-    </ul>
-    <span style='color:black;font-weight:bolder;'>Tuition Fee</span><br>
-
-
-
-    Even as the tuition fee can vary for every college and university, on an average the annual fee ranges between 14000-16000 Canadian dollars approximately. There is a separate visa office fee also that has to be paid by the student for getting the study visa for Canada once he/she meets the educational qualifications and other requirements of a particular selected course and gets letter of confirmation from the institute. The semester and annual fee of the university/college has to be paid in advance and it is refundable with a nominal deduction in case of non-issuance of visa.<br>
-    <span style='color:black;font-weight:bolder;'>Part Time Work</span><br>
-    The students are permitted to work along with the studies on a part-time basis. Students are allowed to work 20 hours off-campus every week and can earn around CAD 12-14 per hour on an average. The average cost of living is CAD 10,000 annually.<br>
-
-    <span style='color:black;font-weight:bolder;'>Jobs and Employment</span><br>
-
-    
-    There is immense scope for students pursuing Engineering Studies, Management Studies, Tourism & Travel Studies, Hotel & Hospitality Studies, Science Studies, Fashion Design Studies, Nursing & Health Sciences, Community Studies, Mass Communication, Architecture Studies, Aircraft Maintenance and many more courses. Canada has need of skilled worker in all these programs and the employment opportunities are immense with great salaries and perks.<br>
-
-
-
+We guide you with a hassle-free process that helps you selecting, applying and procuring admission to foreign Colleges / Universities. Moreover, association with pre-requisites of admission process and other formalities is the most important concern at our point. With an extensive association with the reputed Universities and Educational Institutions abroad, we at BirlaG, are well equipped to help you while selecting the most appropriate educational option and the preferred country.<br><br>
 
 
     </p>
@@ -110,8 +87,6 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 <!-- flagg   ¿ -->
 
 
-<!-- tehhorizontal class  -->
-
 <section class="hc">
 
 
@@ -123,51 +98,68 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
     <div class="-my-8 divide-y-2 divide-gray-100">
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-         <span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>Explore Universities/Courses</span>
+          <a href='canada.php'><span class="font-semibold title-font text-gray-700" style='color:#D92E7C; font-weight:400;font-size:1rem'>
+Canada</span></a>
         </div>
         <div class="md:flex-grow">
           
-          <p class="leading-relaxed"  style='font-size:.8rem'>BirlaG can be your best mentor to choose a College/ University that suits your requirements and you are comfortably eligible for. BirlaG gives the applicant expert guidance in term of gaining deep insight regarding the educational opportunities available abroad and also understanding the pre- requisites for admission and other formalities involved.</p>
-          <!-- <a class="text-pink-500 inline-flex items-center mt-4" href='canada.php'>Learn More -->
-            <!-- <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg> -->
-          </a>
-        </div>
-      </div>
-       <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Scholarship</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>
-          In order to be eligible to apply for a scholarship you must have applied and received an offer from the university. The deadlines for university scholarships are closing in! If you have not applied yet, hurry up!! call us for more details!!!</p>         
-        </div>
-      <!-- </div>
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Spousal Visa</span>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The main objective behind introducing the Family Class Visa stream by the Government of Canada has been to help families reunite. The Family Class Visa allows citizens and permanent residents of Canada to sponsor their spouse, parents, dependent children dependent grandchildren or dependent grandparents to gain permanent residence in Canada..</p>
-         
-        </div>
-      </div> --> 
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Travel Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>A unique and diverse country in every way – culture, population, climate, geography, and history, Australia has a culture that is as broad and varied..</p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='au.php'>Learn More
+          <p class="leading-relaxed"  style='font-size:.8rem'>
+          The Canadian Federal and Provincial Governments are constantly introducing new laws and programs to ensure successful resettlement..
+                              </p>
+          <a class="text-pink-500 inline-flex items-center mt-4" href='uscard.php'>Learn More
             <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
               <path d="M12 5l7 7-7 7"></path>
             </svg>
           </a>
         </div>
-      </div> -->
+      </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+        <a href='uk.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>United Kingdom</span></a>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>
+          United Kingdom has always been the fantasy world for immigrants across the world. United Kingdom has so much to offer to the immigrants..            </p>
+          <a class="text-pink-500 inline-flex items-center mt-4" href='uk.php'>Learn More
+            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+        <a href='nz.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>New Zealand</span></a>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>
+          Nestled in the southwestern Pacific Ocean, New Zealand that is rightly called the ‘Land of Long White Clouds’, is a truly exotic country famed for its majestic blend..            </p>
+          <a class="text-pink-500 inline-flex items-center mt-4" href='nz.php'>Learn More
+            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+        <a href='sp.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Singapore</span></a>
+        </div>
+        <div class="md:flex-grow">
+          <p class="leading-relaxed" style='font-size:.8rem'>
+          Singapore is a city-state and an island nation made up of not just one, but 63 islands. It is one of the most densely populated regions in Asia. Singapore is an anglicized version of the name ‘Singapura’, which means the ‘Land of the Lions’.            </p>
+          <a class="text-pink-500 inline-flex items-center mt-4" href='sp.php'>Learn More
+            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+     
     </div>
   </div>
 </section>
@@ -188,56 +180,51 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Visa Procedures and Formalities</span>
+        <a href='us.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>United States</span></a>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          We provide end to end solution for international education. Our goal is to match the right students with the right program and institution and maximize their growth and abilities. </p>        </div>
+          Majorly situated in central North America, USA is the most desired destination for everyone who wishes to migrate for the betterment of life..
+                              </p>
+          <a class="text-pink-500 inline-flex items-center mt-4" href='us.php'>Learn More
+            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
+          </a>
+        </div>
       </div>
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Canadian Education System</span>
+        <a href='au.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Australia</span></a>
         </div>
         <div class="md:flex-grow">
           <p class="leading-relaxed" style='font-size:.8rem'>
-          Universities & Colleges For the students looking for the international education and planning to put their careers on the fast track, Canada is the hottest destination”. This is because it has immense range of specialties, high quality of education, great opportunities, which attracts students from different countries of the world to study and settle here. We can help you get study visa in the following universities and colleges of Canada.</p>        </div>
+          Australia, the world’s smallest continent as well as the world’s largest island, the name is derived from the Latin AUSTRALIAS, means southern, legends..                              </p>
+          <a class="text-pink-500 inline-flex items-center mt-4" href='au.php'>Learn More
+            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
+          </a>
+        </div>
       </div>
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-       <span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Immigrate to Yukon, Canada under Yukon PNP & Community Pilot</span>
+        <a href='china.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>China</span></a>
         </div>
         <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>Launched in July 2020, the Yukon Community Pilot (YCP) is a new stream of the Yukon Nominee Program that allows foreign workers to live and work in Canada without a Labour Market Impact Assessment (LMIA)..</p>
-        </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='bsim.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>The world is evolving into a revolutionizing village and the economies are enormously progressing with the growth in international trade. The global village is growing with strength and power and so are the investments in the capital flow moving upwards. Due to decentralization of trade between so many countries, potential business demand for persons was created worldwide. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='bsim.php'>Learn More
+          <p class="leading-relaxed" style='font-size:.8rem'>
+          Immigration to the People's Republic of China is the international movement of non-Chinese nationals in order to reside permanently in the country. In the late 1970s, roughly 300,000 ethnic Chinese immigrated from Vietnam to China.                                    </p>
+          <a class="text-pink-500 inline-flex items-center mt-4" href='china.php'>Learn More
             <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
               <path d="M5 12h14"></path>
               <path d="M12 5l7 7-7 7"></path>
             </svg>
           </a>
         </div>
-      </div> -->
-      <!-- <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-        <a href='studentvisa.php'><span class="font-semibold title-font text-gray-700"  style='color:#D92E7C; font-weight:400;font-size:1rem'>Student Visa</span></a>
-        </div>
-        <div class="md:flex-grow">
-          <p class="leading-relaxed" style='font-size:.8rem'>With worldwide integration, Education sector has always been the one domain which captured a big amount of population across the world. In today’s time studying abroad isn’t a new term. Educational excellence, high rate of employment and tremendous income potential with exquisite work environment attracts students all over the globe. But selecting and ensuring to follow the right career has become difficult in the changing times. </p>
-          <a class="text-pink-500 inline-flex items-center mt-4" href='studentvisa.php'>Learn More
-            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14"></path>
-              <path d="M12 5l7 7-7 7"></path>
-            </svg>
-          </a>
-        </div>
-      </div> -->
+      </div>
+    
     </div>
   </div>
 </section>
@@ -260,7 +247,6 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
 
 
 </section>
-
 
 
 
@@ -392,6 +378,7 @@ There are many other advantages of studying in Canada. It is a multi-cultural co
                   </div>
                 </div>
                 </section>
+
 
 
 

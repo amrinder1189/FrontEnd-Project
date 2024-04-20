@@ -1,5 +1,9 @@
 <?php include('header.php') ?>
 
+
+
+
+
 <!-- stream_context_get_options -->
 
 <section class='box-h' style=' '>
@@ -19,9 +23,12 @@
 
 </ul>
 
+
+
 </div>
 
 </section>
+
 
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
@@ -41,6 +48,8 @@
   </div>
 </section>
 
+
+
 <!-- try  -->
 
 <section class='menu-boxx' style=''>
@@ -58,6 +67,8 @@
 
 </ul>
 
+
+
 </div>
 
 </section>
@@ -66,9 +77,17 @@
 
 </section>
 
+
+
+
+
 <!-- flagg   ¿ -->
 
 <section class="hc">
+
+
+
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -141,7 +160,13 @@ Canada</span></a>
   </div>
 </section>
 
+
+
+
+
+
 <!-- try  -->
+
 
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-24 mx-auto">
@@ -200,7 +225,37 @@ Canada</span></a>
   </div>
 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- try  -->
 
@@ -320,9 +375,25 @@ Canada</span></a>
                 </div>
                 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- footer  -->
 
+
+
 <section class="eight-section">
+
 
 <div  class="footerimage jumbotron">
     <div class="f1 footer footerfont"><h1>Birla - G</h1></div>
@@ -337,6 +408,8 @@ Canada</span></a>
       </ul>
     </div>
   
+  
+  
   <div class="col-4 ">
   <ul class=""  style="list-style-type:none;">
   <a href='index.php'><li class="footerhover"><i class="fas fa-chevron-right"></i> HOME</li></a><br>
@@ -346,6 +419,9 @@ Canada</span></a>
   </ul>
   </div>
   
+  
+  
+  
   <div class="col-4 ">
     <ul  style="list-style-type:none;">
       <li><h3 class='stay-conn'>STAY CONNECTED</h3></li><br>
@@ -353,10 +429,14 @@ Canada</span></a>
       <li><a href='https://www.facebook.com/officialbirlagvisa/'><img src="images/fbicon.png" class="lu" alt=""> Facebook</a></li><br>
       <li><a href='https://twitter.com/intent/tweet?url=http%3A%2F%2Fbirlagvisa.com%2F&text='><img src="images/twicon.png" class="lu" alt=""> Twiter</a></li>
     </ul>
-
+  
+  
+  
   </div>
   
   </div>
+  
+  
   
   </div>
   </section>

@@ -1,9 +1,11 @@
+
+
 <?php
-include('header1.php');
+include('header.php');
 
 ?>
 
-<!-- THE CROUSEL   OR SLIDERS -->
+<!-- THE CROUSEL OR SLIDERS -->
 
 
 
@@ -309,10 +311,7 @@ We have an experienced and specialized team of professionals. They deeply unders
         <br class="hidden lg:inline-block">The fast immigration
       </h1>
       <p  id='demo7' class="mb-8 leading-relaxed" data-aos='fade-left'>BIRLA G is one of the leading global resettlement solution service providers offering full range of services in the area of SKILLED, STUDENT AND BUSINESS IMMIGRATION.With over years of experience as well as a dedicated and empowered team of professionals at BIRLA G have successfully assisted over clients in fulfilling their dream of settling in top countries of the world including Canada, Australia, New Zealand, USA and UK .</p>
-      <!-- <div class="flex justify-center">
-        <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
-        <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button>
-      </div> -->
+
     </div>
   </div>
 </section>

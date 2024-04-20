@@ -1,0 +1,185 @@
+/* the mobile view  */
+
+@media screen and (max-width:400px){
+
+    .section-second{
+        padding: 0px;
+        margin-top: 0px;
+        /* border:10px solid red; */
+        height: auto;
+    }
+
+    .info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info-img{
+        flex: 3;
+        margin-top: 3px;
+        /* border: 2px solid red; */
+    }
+
+    .info-img-boy{
+        height: 270px;
+        width: 210px;
+    }
+
+
+
+    /* third section  */
+
+    .third-section{
+        height: auto;
+        /* z-index: 100000; */
+        /* border: 2px solid red; */
+
+    }
+
+    .flagg{
+        height: 80px;
+
+    }
+
+    .flag-div{
+        /* overflow: visible; */
+        display: inline-block;
+    }
+
+    .mg{
+        margin-bottom: 0px;
+    }
+
+    .flag-row{
+        display: flex;
+        flex-direction: row;
+        /* justify-content: center; */
+        justify-content: space-around;
+    }
+
+
+    .parallax{
+        min-height: 800px;
+    }
+
+    #fomm{
+        /* display: none; */
+        width: 130px;
+        left: 0;
+        top: 2px;
+        font-size: 25px;
+        margin: 0 auto;
+        color:rgba(lightgreen,0.7)
+        
+    }
+
+    .card-section{
+        /* border:2px solid red; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: auto;
+    }
+
+
+    .cardd{
+        height: 200px;
+        width: 90%;
+
+        margin:3%    auto;
+        padding: 5px;
+    }
+
+    .carddd{
+        height: 200px;
+        width: 90%;
+
+
+        margin:3% auto;
+        padding: 5px;
+    }
+
+    .iconnn{
+        font-size: 60px;
+          color: gray;
+      }
+
+      .card-frame{
+          display: flex;
+          flex-direction: column;
+      }
+      .card-detail{
+        font-size: 10px;
+        color: gray;
+    }
+
+    .card-heading{
+        font-size:20px;
+        font-weight: bold;
+    }
+  
+    .help-heading{
+        font-size: 25px;
+    }
+
+    .six-section{
+        margin-top: 5%;
+    }
+
+
+    .partners{
+        font-size: 40px;
+    }
+
+    .f1{
+        font-size: larger;
+    }
+
+    .footerimage{
+        height: 550px;
+    background-size: cover;
+
+    }
+
+    .stay-conn{
+        font-size: 16px;
+    }
+
+
+    .what-we{
+        font-size: 20px;
+    }
+
+
+    .box-h{
+        display: flex;
+        flex-direction: column;
+    }
+
+   
+     .menu-box{
+     width: 100%;   
+     text-align:center;
+     /* border: 2px solid red; */
+     /* margin: 1% auto; */
+    }
+
+    .imii{
+        font-size:medium;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

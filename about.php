@@ -8,9 +8,15 @@
       </svg>
       <p class="leading-relaxed text-lg">
 
+
 Birla G is an abroad education consultancy firm, having corporate office  at Mohali (Punjab) in India. We are a B2C and B2B company (Indeed we are one of the most technically developed and service-oriented companies) making business profitable providing the highest commissions.
 
+
+
+
 We are planning to open new branched at Amritsar, Bathinda, Jallandhar, Ludhiana and business partners at various places in India. We offer education abroad opportunities to students for:
+
+ 
 
 - Bachelors
 
@@ -18,11 +24,18 @@ We are planning to open new branched at Amritsar, Bathinda, Jallandhar, Ludhiana
 
 - PhD
 
+
+
+
 In countries namely:-
 
 UK, USA, Australia, New Zealand, Germany, France, Poland, Ireland, Singapore, Dubai, Italy, Switzerland, Japan, The Netherlands, Spain, Canada, and the Czech Republic.
 
+ 
+
 We also cater our clients for various services like tourist visa, Permanent Residency, Work Assistance and Business Visa.
+
+
 
 We have an experienced and specialized team of professionals. They deeply understand the requirements of the business and present the most potential prospects who meet the criterion set by different countries
 </p>
@@ -32,6 +45,9 @@ We have an experienced and specialized team of professionals. They deeply unders
     </div>
   </div>
 </section>
+
+
+
 
 <!-- try  -->
 <section class="text-gray-600 body-font">
@@ -64,6 +80,10 @@ We have an experienced and specialized team of professionals. They deeply unders
   </div>
 </section>
 
+
+
+
+
 <!-- <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4 text-center">
@@ -79,8 +99,11 @@ We have an experienced and specialized team of professionals. They deeply unders
         <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">1200</h2>
         <p class="leading-relaxed">Immigrations</p>
       </div>
+     
     </div>
   </div>
 </section> -->
+
+
 
 <?php include('footer.php') ?>
