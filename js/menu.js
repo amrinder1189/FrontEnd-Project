@@ -1,5 +1,5 @@
-/* global jQuery */
-/* global document */
+/* global  jQuery */
+/* global  document */
 
 jQuery(function () {
   'use strict';

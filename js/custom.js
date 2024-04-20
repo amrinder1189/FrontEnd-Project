@@ -1,4 +1,4 @@
-// JavaScript Document
+// JavaScript  Document
 
 
 	$(window).on('load', function() {
@@ -6,7 +6,7 @@
 		"use strict";
 						
 		/*----------------------------------------------------*/
-		/*	Preloader
+		/*	  Preloader
 		/*----------------------------------------------------*/
 		
 		var preloader = $('#loader-wrapper'),
@@ -24,7 +24,7 @@
 		"use strict";
 								
 		/*----------------------------------------------------*/
-		/*	Navigtion Menu Scroll
+		/*	  Navigtion Menu Scroll
 		/*----------------------------------------------------*/	
 		
 		var b = $(window).scrollTop();
@@ -44,7 +44,7 @@
 
 
 		/*----------------------------------------------------*/
-		/*	Hero Slider
+		/*	  Hero Slider
 		/*----------------------------------------------------*/
 
 		$('.slider').slider({
@@ -65,7 +65,7 @@
 
 
 		/*----------------------------------------------------*/
-		/*	Animated Scroll To Anchor
+		/*	  Animated Scroll To Anchor
 		/*----------------------------------------------------*/
 		
 		$('.header a[href^="#"], .page a.btn[href^="#"], .page a.internal-link[href^="#"]').on('click', function (e) {

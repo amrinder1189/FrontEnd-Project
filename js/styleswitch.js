@@ -1,5 +1,5 @@
 //Style Sheet Switcher version 1.1 Oct 10th, 2006
-//Author: Dynamic Drive: http://www.dynamicdrive.com
+//Author:  Dynamic Drive: http://www.dynamicdrive.com
 //Usage terms: http://www.dynamicdrive.com/notice.htm
 
 var manual_or_random="manual" //"manual" or "random"
@@ -16,7 +16,7 @@ return null
 
 function setCookie(name, value, days) {
 var expireDate = new Date()
-//set "expstring" to either future or past date, to set or delete cookie, respectively
+//set  "expstring"  to either future or past date, to set or delete cookie, respectively
 var expstring=(typeof days!="undefined")? expireDate.setDate(expireDate.getDate()+parseInt(days)) : expireDate.setDate(expireDate.getDate()-5)
 document.cookie = name+"="+value+"; expires="+expireDate.toGMTString()+"; path=/";
 }
@@ -43,7 +43,7 @@ altsheets[randomnumber].disabled=false
 return (typeof randomize!="undefined" && altsheets[randomnumber]!="")? altsheets[randomnumber].getAttribute("title") : "" //if in "random" mode, return "title" of randomly enabled alt stylesheet
 }
 
-function chooseStyle(styletitle, days){ //Interface function to switch style sheets plus save "title" attr of selected stylesheet to cookie
+function chooseStyle(styletitle, days){ //Interface function to  switch style sheets plus save "title" attr of selected stylesheet to cookie
 if (document.getElementById){
 setStylesheet(styletitle)
 setCookie("mysheet", styletitle, days)
@@ -86,7 +86,7 @@ setCookie("mysheet_r", setStylesheet("", "random"), parseInt(randomsetting)) //a
 setCookie("mysheet_r_days", randomsetting, parseInt(randomsetting)) //Also remember the number of days to persist per the "x days" variable
 }
 else
-setStylesheet(getCookie("mysheet_r")) //just activate random alt stylesheet stored in cookie
+setStylesheet(getCookie("mysheet_r")) //just  activate  random alt stylesheet stored in cookie
 } 
 }
 

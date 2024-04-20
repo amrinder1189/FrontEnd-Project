@@ -1,4 +1,4 @@
-// JavaScript Document
+// JavaScript  Document
 $(document).ready(function() {
 
     "use strict";
@@ -57,7 +57,7 @@ $(document).ready(function() {
             cache: false,
             success: function (d) {
                 $(".form-control").removeClass("success");
-                    if(d == 'success') // Message Sent? Show the 'Thank You' message and hide the form
+                    if(d == 'success') // Message Sent?   Show the 'Thank You' message and hide the form
                         $('.loading').fadeIn('slow').html('<font color="#00596e">Mail sent Successfully.</font>').delay(3000).fadeOut('slow');
                          else
                         $('.loading').fadeIn('slow').html('<font color="#ff5607">Mail not sent.</font>').delay(3000).fadeOut('slow');

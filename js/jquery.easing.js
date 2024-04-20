@@ -4,7 +4,7 @@
  * Uses the built in easing capabilities added In jQuery 1.1
  * to offer multiple easing options
  *
- * TERMS OF USE - jQuery Easing
+ * TERMS OF USE  -  jQuery Easing
  * 
  * Open source under the BSD License. 
  * 
@@ -35,7 +35,7 @@
  *
 */
 
-// t: current time, b: begInnIng value, c: change In value, d: duration
+// t: current time,  b: begInnIng value, c: change In value, d: duration
 jQuery.easing['jswing'] = jQuery.easing['swing'];
 
 jQuery.extend( jQuery.easing,
@@ -172,7 +172,7 @@ jQuery.extend( jQuery.easing,
 
 /*
  *
- * TERMS OF USE - EASING EQUATIONS
+ * TERMS OF USE  -  EASING EQUATIONS
  * 
  * Open source under the BSD License. 
  * 
