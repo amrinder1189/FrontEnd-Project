@@ -1,10 +1,10 @@
 <?php session_start(); ?>
 <?php 
-  if(!isset($_SESSION['pas'])){
+  if(!isset($_SESSION['username'])){
     header('Location: login.php');
 }
 else{
-  unset($_SESSION['pas']);
+  unset($_SESSION['username']);
 }
 ?>
     <?php
