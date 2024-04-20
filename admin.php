@@ -11,10 +11,6 @@ else{
 include('header.php');
 ?>
 
-
-
-
-
 <!-- the welcome boos  -->
 <div class='welcome'>
 

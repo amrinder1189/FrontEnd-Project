@@ -312,8 +312,8 @@ div#slider-home .carousel-item::before {
                     </div >
                     <div class="col-md-7 col-sm-12 left_info">
                         <ul>
-                            <li><i class="fa fa-mobile-alt"></i><a href="#">+1 647 523 8847</a></li>
-                            <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="#">samrinder1189@gmail.com</a></li>
+                            <li><i class="fa fa-mobile-alt"></i><a href="tel:+16475238847">+1 647 523 8847</a></li>
+                            <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:someone@example.com">samrinder1189@gmail.com</a></li>
                         </ul>
                     </div>
 

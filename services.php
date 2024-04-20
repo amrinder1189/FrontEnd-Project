@@ -229,3 +229,4 @@
     <script src="js/comment-form.js"></script>
     <script src="js/jquery.ajaxchimp.min.js"></script>	
     <script src="js/jquery.validate.min.js"></script>	
+    <script src="js/navu.js"></script>	

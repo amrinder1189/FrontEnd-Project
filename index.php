@@ -1,18 +1,4 @@
 
-<!-- <?php
-// session_start(); 
-
-// Check if the user is logged in
-// if(isset($_SESSION['username'])) {
-//     $username = $_SESSION['username'];
-//     echo "Welcome, $username!";
-// } 
-// else {
-//     // If the user is not logged in, redirect them to the login page
-//     header("Location: login.php");
-//     exit();
-// }
-?> -->
 
 <?php
 include('header.php');
