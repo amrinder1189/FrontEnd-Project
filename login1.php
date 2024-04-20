@@ -18,6 +18,7 @@ if(isset($_POST['login'])){
         $passs  = $row['pass'];
      }
 
+    //  checking username and password if they are correct or not 
      if($username == $user_name && $pass == $passs){
         $_SESSION['username'] = $username; 
          header('Location: admin.php');
