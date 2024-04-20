@@ -9,7 +9,7 @@
   Author: Jthemes
   Author URL: https://themeforest.net/user/Jthemes
   Version: 1.0.0
-  Tags: Responsive, HTML5 template, Jthemes, One Page, Landing, Business, Coaching, Consulting, Creative, Immigration, Lawyer, Visa
+  Tags: Responsive, HTML5  template, Jthemes, One Page, Landing, Business, Coaching, Consulting, Creative, Immigration, Lawyer, Visa
 */
 
 
@@ -79,28 +79,28 @@
 
   .pc-20 { padding-right: 0; padding-left: 0; } 
 
-  /* Header H5 */
+  /* Header H5  */
   h5.h5-xs { font-size: 1.09375rem; } 
   h5.h5-sm { font-size: 1.125rem; }    
   h5.h5-md { font-size: 1.15625rem; }  
   h5.h5-lg { font-size: 1.1875rem; }  
   h5.h5-xl { font-size: 1.225rem; } 
 
-  /* Header H4 */
+  /* Header H4  */
   h4.h4-xs { font-size: 1.25rem; } 
   h4.h4-sm { font-size: 1.375rem; } 
   h4.h4-md { font-size: 1.5rem; }   
   h4.h4-lg { font-size: 1.625rem; } 
   h4.h4-xl { font-size: 1.75rem; }  
 
-  /* Header H3 */
+  /* Header H3  */
   h3.h3-xs { font-size: 1.875rem; }
   h3.h3-sm { font-size: 2rem; }     
   h3.h3-md { font-size: 2.125rem; } 
   h3.h3-lg { font-size: 2.25rem; }  
   h3.h3-xl { font-size: 2.5rem; }   
 
-  /* Header H2 */
+  /* Header H2  */
   h2.h2-xs { font-size: 2.75rem; } 
   h2.h2-sm { font-size: 2.875rem; }
   h2.h2-md { font-size: 3rem; }     
@@ -108,34 +108,34 @@
   h2.h2-xl { font-size: 3.25rem; }  
   h2.h2-huge { font-size: 4.25rem; }
 
-  /* Paragraphs */
+  /* Paragraphs  */
   p.p-sm { font-size: 0.95rem; }  
   p { font-size: 1rem; }           
   p.p-md { font-size: 1.066rem; }  
   p.p-lg { font-size: 1.133rem; }  
   p.p-xl { font-size: 1.266rem; }  
 
-  /* Buttons */
+  /* Buttons  */
   .btn.btn-md { font-size: 15px; padding: 14px 32px; }
   .btn.btn-lg { font-size: 17px; padding: 16px 40px; }  
 
-  /* Box Icons */
+  /* Box Icons  */
   .icon-xs [class*="flaticon-"]:before, .icon-xs [class*="flaticon-"]:after { font-size: 3rem; }
   .icon-sm [class*="flaticon-"]:before, .icon-sm [class*="flaticon-"]:after { font-size: 3.5rem; }
   .icon-md [class*="flaticon-"]:before, .icon-md [class*="flaticon-"]:after { font-size: 4rem; }
   .icon-lg [class*="flaticon-"]:before, .icon-lg [class*="flaticon-"]:after { font-size: 4.25rem; }
   .icon-xl [class*="flaticon-"]:before, .icon-xl [class*="flaticon-"]:after { font-size: 5.5rem; }
 
-  /* Section Id */
+  /* Section Id  */
   span.section-id { font-size: 0.85rem; }
 
-  /* Section Title */
+  /* Section Title  */
   .section-title { margin-bottom: 50px; }
 
   .section-title.center p { padding: 0; }
 
   /*------------------------------------------*/
-  /*  HERO
+  /*    HERO
   /*------------------------------------------*/
 
   #hero-3 { padding-top: 100px; padding-bottom: 40px; }
@@ -144,7 +144,7 @@
   #hero-7-content { padding-top: 100px; }
   #hero-9-content { padding-top: 90px; padding-bottom: 150px; }
 
-  /* Slider */
+  /*  Slider */
   .slider, .slider .slides { height: 600px; }
   #hero-2 .slider, #hero-2 .slider .slides { height: 580px; }
   #hero-8 .slider, #hero-8 .slider .slides { height: 500px; }
@@ -153,7 +153,7 @@
 
   .slider-btn { bottom: 35px; }
 
-  /* Hero Headers */
+  /* Hero Headers  */
   #hero-1 h2 { font-size: 4rem; padding: 0; margin-bottom: 20px; }
   #hero-2 h3 { font-size: 3rem; margin-bottom: 20px; }
   #hero-2 h2 { font-size: 4.75rem; margin-bottom: 20px; }
@@ -165,21 +165,21 @@
   #hero-8 h2 { font-size: 3.25rem; }
   #hero-8 h4 { padding-right: 15px; }
 
-  /* Hero Paragraphs */
+  /* Hero Paragraphs  */
   #hero-1 .caption-txt p { font-size: 1.125rem; padding: 0 12%; }
   .hero-3-txt p, .hero-6-txt p { padding-right: 0; }
   #hero-4 .caption p { font-size: 1.125rem; padding: 0 12%; margin-bottom: 12px; }
 
-  /* Hero Button */
+  /* Hero Button  */
   .hero-section .btn { margin-top: 15px; }
 
-  /* Hero Links */
+  /* Hero Links  */
   #hero-7 .hero-links, #hero-9 .hero-links { margin-top: 45px; }
   .hero-links h5.h5-sm { font-size: 1.075rem; }
   .hero-links.icon-xs [class^="flaticon-"]:before, .hero-links.icon-xs [class*=" flaticon-"]:before,
   .hero-links.icon-xs [class^="flaticon-"]:after, .hero-links.icon-xs [class*=" flaticon-"]:after { font-size: 0.95rem; }
 
-  /* Hero Form */
+  /* Hero Form  */
   .hero-request-form { padding: 35px 25px 20px; margin: 0 10px; }
   .hero-register-form { padding: 30px 15px 20px; margin: 40px 15px 55px; }
   .hero-9-form .hero-register-form { padding: 30px 15px 20px; margin: 40px 15px 0; }
