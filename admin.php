@@ -1,3 +1,4 @@
+<!-- session start  -->
 <?php session_start(); ?>
 <?php 
   if(!isset($_SESSION['username'])){
@@ -8,6 +9,7 @@ else{
 }
 ?>
     <?php
+    // add header 
 include('header.php');
 ?>
 
