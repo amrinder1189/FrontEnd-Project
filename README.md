@@ -1,3 +1,10 @@
+How to Setup this project
+-----------------------------
+1. Extract the project in htdocs folder in xampp.
+2. then just run url -->    localhost:80/immigrations/index.php
+
+   Here we are running on port number 80, change the above url according to your running port number.
+
 # Project Name: BIRLA G VISA AND IMMIGRATION
 
 ## Project Description
